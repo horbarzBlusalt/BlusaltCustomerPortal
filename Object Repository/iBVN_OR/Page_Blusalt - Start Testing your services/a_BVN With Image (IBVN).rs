@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_BVN With Image (IBVN)</name>
+   <tag></tag>
+   <elementGuidId>c6fdd933-7df2-4891-b26d-73ec6daee987</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='collapseOne']/nav/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3ec24163-67ed-4ed4-b7c8-33bf833e6fdd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>87df566e-02c9-4ef8-8fa0-8b91028a2cad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link</value>
+      <webElementGuid>893501df-ea8b-4417-b7e6-5afcb7a73594</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BVN With Image (IBVN)</value>
+      <webElementGuid>9332d41b-7be6-4720-9b48-5a533b56ef9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;collapseOne&quot;)/nav[@class=&quot;nav az-nav-column mg-b-20&quot;]/a[@class=&quot;nav-link&quot;]</value>
+      <webElementGuid>08e7cdc4-c219-46c5-a4df-338d6d8001f9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='collapseOne']/nav/a[2]</value>
+      <webElementGuid>c9148a53-e1f5-4216-b600-410d5c910eff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'BVN With Image (IBVN)')]</value>
+      <webElementGuid>1896991b-e823-49fa-b8ab-4f997f7b818a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bank Verification Number (BVN)'])[1]/following::a[1]</value>
+      <webElementGuid>509fa2c1-4333-41a5-94e2-8d91ca7fe28c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Identity(Nigeria)'])[1]/following::a[2]</value>
+      <webElementGuid>b3e5fc53-b007-41ac-ac22-822aa030bad7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bank Verification Number (Bulk-BVN)'])[1]/preceding::a[1]</value>
+      <webElementGuid>086c6c51-18e9-4c97-9879-3da0dc7f5e85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Permanent Voters Card (PVC)'])[1]/preceding::a[2]</value>
+      <webElementGuid>f9958251-4033-4932-93df-b0d7755fce9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='BVN With Image (IBVN)']/parent::*</value>
+      <webElementGuid>d80f93f6-a57a-41a4-94f1-f13ee43f1a27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '')])[46]</value>
+      <webElementGuid>e93552ac-6a87-4aec-a45b-36ace488c5b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/nav/a[2]</value>
+      <webElementGuid>0adef977-1a52-4b8c-abf9-2f38d5bc2615</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'BVN With Image (IBVN)' or . = 'BVN With Image (IBVN)')]</value>
+      <webElementGuid>94343e4f-c72c-4beb-89f2-7f8fc352c908</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

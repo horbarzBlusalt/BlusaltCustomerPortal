@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input__form-control input-bordered_1_2</name>
+   <tag></tag>
+   <elementGuidId>4fa0d7e7-656d-4ab6-a704-ee1314b3aa4e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>0dc99cc2-9ba0-446c-bb2f-039944a56779</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>7690a3ed-87d3-4a9b-9412-a19952dd29de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Enter state name</value>
+      <webElementGuid>e54d05fe-b6b3-44b7-9824-ae10bbf73629</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control input-bordered</value>
+      <webElementGuid>2b817619-bd1d-4cfb-bc9c-77391be0f04b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;elBody&quot;)/div[@class=&quot;az-content az-content-dashboard-nine&quot;]/div[@class=&quot;az-content-box&quot;]/div[@class=&quot;az-content-body tab-content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/div[1]/div[@class=&quot;contact-details--card&quot;]/form[1]/div[@class=&quot;row mt-4&quot;]/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;form-group&quot;]/input[@class=&quot;form-control input-bordered&quot;]</value>
+      <webElementGuid>39cc760a-6d2c-437d-86bf-85c4e7ee6627</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[3]</value>
+      <webElementGuid>9b9e2f04-e6d0-497e-904b-121d9e211d89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='elBody']/div[2]/div[2]/div[2]/div/div/div/div[2]/form/div/div[4]/div/input</value>
+      <webElementGuid>3c9a7882-a182-4180-97ea-9290e5292155</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/input</value>
+      <webElementGuid>953a80e1-bf3e-471a-b82d-23cd0aeb665a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Enter state name']</value>
+      <webElementGuid>ad00e0ce-8cc8-4685-bcbf-bf07e917f1ef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

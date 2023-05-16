@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>profile_img</name>
+   <tag></tag>
+   <elementGuidId>944b31b0-c81c-4f28-a90d-d83ac6585f4f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='userProfile']/a/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.az-img-user > img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>aa726ef9-f0d6-41b3-b983-afa64027ce22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/assets/img/avatar1.svg</value>
+      <webElementGuid>c4a2330e-57bc-4b6d-a3ca-3affd58f286b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;userProfile&quot;)/a[@class=&quot;az-profile-link&quot;]/div[@class=&quot;az-img-user&quot;]/img[1]</value>
+      <webElementGuid>a3453fc3-bfc3-449c-b8e6-d2185796335c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='userProfile']/a/div/img</value>
+      <webElementGuid>97df5296-9390-4bf8-9571-ab02f83aab83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/img</value>
+      <webElementGuid>a24f4603-cbc1-402f-8b4f-c2c56265efca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/assets/img/avatar1.svg']</value>
+      <webElementGuid>4f727228-ecac-45dd-bc3c-5b7308e9ff69</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

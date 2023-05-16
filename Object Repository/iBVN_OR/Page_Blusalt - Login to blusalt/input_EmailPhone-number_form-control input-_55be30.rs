@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_EmailPhone-number_form-control input-_55be30</name>
+   <tag></tag>
+   <elementGuidId>21a5ff5c-b293-4406-8f64-33566c946f3d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@type='text']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.form-control.input-bordered</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>e9820a9d-9fe5-4e8a-a1f7-ca68038b58ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>0931a885-bc78-406a-b0b5-22a0112ac7c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Enter your email or phone number</value>
+      <webElementGuid>d9433edf-2d48-48e1-9460-6afd86a2a745</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control input-bordered</value>
+      <webElementGuid>b3c7018a-ea33-44a2-b370-5bb48288cdac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;&quot;]/body[1]/div[1]/div[@class=&quot;w-bg page-ath&quot;]/div[@class=&quot;row justify-content-center align-items-center&quot;]/div[@class=&quot;no-sm-padding col-xl-4 col-lg-5 col-md-4 col-sm-12&quot;]/div[1]/div[@class=&quot;card-innr card-login auth-card&quot;]/form[1]/div[@class=&quot;form-group&quot;]/input[@class=&quot;form-control input-bordered&quot;]</value>
+      <webElementGuid>40d651a9-8cd4-4580-a9b8-a94c12289327</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@type='text']</value>
+      <webElementGuid>8340ce04-ad7a-4e36-8227-538209b94eff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>dcd09bb7-4108-4245-838b-08de286f76ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Enter your email or phone number']</value>
+      <webElementGuid>dc05ee90-da58-4674-8b82-4352ef507d5a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>603d7790-6759-4fbc-9c70-6c70b48a3c30</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>43e19cc6-1193-46d3-b280-75ec33e69fb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/assets/img/blusalt-logo-sb-inverse.svg</value>
+      <webElementGuid>f29e401c-1fea-41d8-9a79-8c34cde96fde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;&quot;]/body[1]/div[1]/div[@class=&quot;w-bg page-ath&quot;]/div[@class=&quot;row justify-content-center align-items-center&quot;]/div[@class=&quot;no-sm-padding col-xl-4 col-lg-5 col-md-4 col-sm-12&quot;]/div[1]/div[@class=&quot;card-innr card-login auth-card&quot;]/a[@class=&quot;logo&quot;]/img[1]</value>
+      <webElementGuid>8ffeb18f-a6dc-4c0d-a426-27d26be5e06d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>3fa3e0c7-b290-402b-b9a8-59534bf5cb74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/assets/img/blusalt-logo-sb-inverse.svg']</value>
+      <webElementGuid>fe25f3e4-2226-4e5c-a614-ac5f52d66195</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

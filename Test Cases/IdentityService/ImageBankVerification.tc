@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Bnv with image</description>
+   <name>ImageBankVerification</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>91c21eda-67f2-49b4-8f2c-b5872c5769a8</testCaseGuid>
+</TestCaseEntity>

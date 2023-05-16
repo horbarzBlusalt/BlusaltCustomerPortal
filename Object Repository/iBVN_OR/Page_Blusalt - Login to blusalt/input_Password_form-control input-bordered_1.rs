@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Password_form-control input-bordered_1</name>
+   <tag></tag>
+   <elementGuidId>c2445d22-693b-4d04-aa88-8c1e9dbe8c00</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.pos-relative > input.form-control.input-bordered</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>1d553170-1373-4893-9183-90eb580a37b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Enter your password</value>
+      <webElementGuid>67922d75-293e-445f-a3c1-a33707da46f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>a81b25e5-2551-4570-95b1-af52668e3847</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control input-bordered</value>
+      <webElementGuid>0352531d-048c-407a-8181-786cd6b0bcb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;&quot;]/body[1]/div[1]/div[@class=&quot;w-bg page-ath&quot;]/div[@class=&quot;row justify-content-center align-items-center&quot;]/div[@class=&quot;no-sm-padding col-xl-4 col-lg-5 col-md-4 col-sm-12&quot;]/div[1]/div[@class=&quot;card-innr card-login auth-card&quot;]/form[1]/div[@class=&quot;form-group mg-b-20&quot;]/div[@class=&quot;pos-relative&quot;]/input[@class=&quot;form-control input-bordered&quot;]</value>
+      <webElementGuid>16a3a52e-58b9-4b19-ae97-b2b868ee0882</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[2]</value>
+      <webElementGuid>4807b08b-2d21-4d79-9e98-1f0449009d88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/input</value>
+      <webElementGuid>d86cf39a-5114-4d6e-b7a8-96dc59cfeffd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Enter your password' and @type = 'text']</value>
+      <webElementGuid>d6f0fd44-cf6b-48bb-b6d0-62db08fc2ead</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

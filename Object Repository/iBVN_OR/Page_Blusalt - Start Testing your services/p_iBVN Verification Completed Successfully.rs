@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_iBVN Verification Completed Successfully</name>
+   <tag></tag>
+   <elementGuidId>1bf3f86f-4e02-49f1-8ff5-a321dadbdb22</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='T0tpQlZOJTIwVmVyaWZpY2F0aW9uJTIwQ29tcGxldGVkJTIwU3VjY2Vzc2Z1bGx5Z3JlZW4']/div/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.iziToast-message.slideIn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>894ad558-262a-4fe4-9b83-d97343870373</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>iziToast-message slideIn</value>
+      <webElementGuid>59764456-3c1c-4ce8-a617-bb43eac5ea09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>iBVN Verification Completed Successfully</value>
+      <webElementGuid>9bd56ec4-8543-4276-a94e-6462cb759d05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;T0tpQlZOJTIwVmVyaWZpY2F0aW9uJTIwQ29tcGxldGVkJTIwU3VjY2Vzc2Z1bGx5Z3JlZW4&quot;)/div[@class=&quot;iziToast-body&quot;]/div[@class=&quot;iziToast-texts&quot;]/p[@class=&quot;iziToast-message slideIn&quot;]</value>
+      <webElementGuid>d894612f-c021-42f6-870c-750840532793</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='T0tpQlZOJTIwVmVyaWZpY2F0aW9uJTIwQ29tcGxldGVkJTIwU3VjY2Vzc2Z1bGx5Z3JlZW4']/div/div/p</value>
+      <webElementGuid>93c7333c-7955-4888-ba07-665ae5250628</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[1]/following::p[1]</value>
+      <webElementGuid>4f64a5af-a042-4268-83a0-211af1c4f1cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© 2023 BluSalt'])[1]/following::p[1]</value>
+      <webElementGuid>1dd5dcce-334e-459c-8b85-a49a1f066663</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='iBVN Verification Completed Successfully']/parent::*</value>
+      <webElementGuid>354b976c-9cb7-4c6f-9e33-b6430f8a8c81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/p</value>
+      <webElementGuid>f866d45b-46e4-4e95-b23a-adf273fc9999</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'iBVN Verification Completed Successfully' or . = 'iBVN Verification Completed Successfully')]</value>
+      <webElementGuid>39944a69-a5c6-4fb6-b567-14b029bbf2a8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

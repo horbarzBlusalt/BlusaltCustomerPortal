@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input__vti__input</name>
+   <tag></tag>
+   <elementGuidId>2c03c026-0d77-4c79-894f-cdbd979e986e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='elBody']/div[2]/div[2]/div[2]/div/div/div/div[2]/form/div/div[2]/div/div[2]/div/input</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.vti__input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>ca918937-2f33-43a7-87ee-ee0242d88af9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Enter your phone number</value>
+      <webElementGuid>572a5501-d458-4e44-b24c-876907d0709a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vti__input</value>
+      <webElementGuid>05518358-f610-4581-8f99-8e409ca5e3ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;elBody&quot;)/div[@class=&quot;az-content az-content-dashboard-nine&quot;]/div[@class=&quot;az-content-box&quot;]/div[@class=&quot;az-content-body tab-content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/div[1]/div[@class=&quot;contact-details--card&quot;]/form[1]/div[@class=&quot;row mt-4&quot;]/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;input-wrapper&quot;]/div[@class=&quot;form-control w-100 input-bordered p-0 vue-tel-input&quot;]/input[@class=&quot;vti__input&quot;]</value>
+      <webElementGuid>1a65e3b1-c8f9-40c9-bfb8-e2441b80cba2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='elBody']/div[2]/div[2]/div[2]/div/div/div/div[2]/form/div/div[2]/div/div[2]/div/input</value>
+      <webElementGuid>0b38393b-4b81-4d99-bede-9d3f50192df5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/input</value>
+      <webElementGuid>7729c4f4-31b2-4eaf-b44d-1743f78249dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Enter your phone number']</value>
+      <webElementGuid>b827598d-ec1e-4c8c-91e0-cef9cedab283</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

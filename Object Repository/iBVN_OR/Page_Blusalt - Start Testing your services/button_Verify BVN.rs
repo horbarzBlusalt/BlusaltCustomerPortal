@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Verify BVN</name>
+   <tag></tag>
+   <elementGuidId>aa0db60a-ca01-4d8c-b77c-448dcdfe6df9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-lg.btn-primary.mg-b-20</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>dec9fac7-f344-4dd2-bfd7-413b96e87736</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>fe945639-a1b8-496f-9c52-e936c9357fdb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-lg btn-primary mg-b-20</value>
+      <webElementGuid>0df8bcc0-c5cf-4600-a8dd-e7a03a1414f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Verify BVN</value>
+      <webElementGuid>8c5fd0e6-6b06-4e7f-92f4-cba263a1402b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;elBody&quot;)/div[@class=&quot;az-content az-content-dashboard-nine&quot;]/div[@class=&quot;az-content-box&quot;]/div[@class=&quot;az-content-body tab-content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/div[1]/div[@class=&quot;contact-details--card&quot;]/form[1]/div[@class=&quot;row mt-4&quot;]/div[@class=&quot;col-12&quot;]/button[@class=&quot;btn btn-lg btn-primary mg-b-20&quot;]</value>
+      <webElementGuid>d5b4f2a0-76de-4b7c-b637-012f6bdfaa83</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>57dc97b8-f8f9-48b1-907e-4a16616d9d6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='elBody']/div[2]/div[2]/div[2]/div/div/div/div[2]/form/div/div[5]/button</value>
+      <webElementGuid>2abcd5d0-0df3-4de8-9b1f-7e5376c50091</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[2]/following::button[1]</value>
+      <webElementGuid>0bfabd11-ef84-41ed-b7dd-daa20649b275</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Currency Type'])[1]/following::button[2]</value>
+      <webElementGuid>276c1b3b-f8ab-4554-95d1-bd5b60a1cf7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='API Request Format'])[1]/preceding::button[1]</value>
+      <webElementGuid>fe87f9a1-aa11-4185-b299-8f54dac9824d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/button</value>
+      <webElementGuid>931a465a-e387-48b7-bd95-f4b89b36551c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Verify BVN' or . = 'Verify BVN')]</value>
+      <webElementGuid>e012ec19-12d0-4c6a-bafc-c3ae245cf67a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

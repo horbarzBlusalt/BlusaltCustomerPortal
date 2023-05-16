@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input__form-control input-bordered</name>
+   <tag></tag>
+   <elementGuidId>ad47097c-b4f8-43b2-ad97-b8402b95af14</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@type='text']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.form-control.input-bordered</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>29307e04-cdcd-4ba2-bcd1-f9d94a4ea51f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>c7156e39-f1ac-4c5f-83fd-66831428ff71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Enter BVN number</value>
+      <webElementGuid>891193ad-d43f-4fba-abb7-e2853f3a3d5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control input-bordered</value>
+      <webElementGuid>0403a481-7c8e-4a14-8cd9-f3c51cec00c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;elBody&quot;)/div[@class=&quot;az-content az-content-dashboard-nine&quot;]/div[@class=&quot;az-content-box&quot;]/div[@class=&quot;az-content-body tab-content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/div[1]/div[@class=&quot;contact-details--card&quot;]/form[1]/div[@class=&quot;row mt-4&quot;]/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;form-group&quot;]/input[@class=&quot;form-control input-bordered&quot;]</value>
+      <webElementGuid>9f93b51b-5641-414e-8e6c-c7540d4bf1ef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@type='text']</value>
+      <webElementGuid>8c906f1f-e0da-4ef4-8e1b-674986aed862</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='elBody']/div[2]/div[2]/div[2]/div/div/div/div[2]/form/div/div/div/input</value>
+      <webElementGuid>b3ec87ff-479e-4951-aa86-ae79515a1731</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>73e972e5-124b-4ab1-9a81-1511bccf5d74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Enter BVN number']</value>
+      <webElementGuid>f741ba51-93d4-475e-a8b2-62a42fb116b2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

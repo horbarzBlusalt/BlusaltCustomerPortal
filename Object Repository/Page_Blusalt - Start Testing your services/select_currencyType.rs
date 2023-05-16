@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_currencyType</name>
+   <tag></tag>
+   <elementGuidId>26a750c5-b356-43ea-89cf-7daa52e3a7b4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='vs3__combobox']/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#vs3__combobox > div.vs__actions</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>873a3471-39b2-454c-bb64-6acd6449414b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vs__actions</value>
+      <webElementGuid>06444480-b31e-4521-ade2-2e10297b89ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Loading...</value>
+      <webElementGuid>f247bdc2-fd40-4bad-8209-d96999879c17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;vs3__combobox&quot;)/div[@class=&quot;vs__actions&quot;]</value>
+      <webElementGuid>829371c8-ced4-4747-ac3a-701d3f929cb5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='vs3__combobox']/div[2]</value>
+      <webElementGuid>5cd35ce0-b7ec-4bf8-a6ea-94a8eec8edf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Currency Type'])[1]/following::div[4]</value>
+      <webElementGuid>bd74792e-9069-4be4-bf85-7570f2606a2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='API version field is required.'])[1]/following::div[5]</value>
+      <webElementGuid>1a75f43a-154c-4464-ad84-33cbc23da4ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Verify BVN'])[1]/preceding::div[3]</value>
+      <webElementGuid>a738dc08-aa5a-4411-9631-79542c6686a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div[2]</value>
+      <webElementGuid>c240e74f-310f-4e4a-bb79-e7ef7c3ebc47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '  Loading...' or . = '  Loading...')]</value>
+      <webElementGuid>35052d8b-af68-4458-a6a4-de5eae4624c8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

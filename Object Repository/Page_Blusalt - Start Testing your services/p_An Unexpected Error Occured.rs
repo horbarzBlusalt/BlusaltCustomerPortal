@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_An Unexpected Error Occured</name>
+   <tag></tag>
+   <elementGuidId>725e44ea-acd5-4b15-8902-11dc5dfd6cca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='RXJyb3JBbiUyMFVuZXhwZWN0ZWQlMjBFcnJvciUyME9jY3VyZWRyZWQ']/div/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.iziToast-message.slideIn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>c3117f03-2844-4f51-b149-1c445800dd19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>iziToast-message slideIn</value>
+      <webElementGuid>5258c428-5513-4b39-a555-e79248d7e822</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>An Unexpected Error Occured</value>
+      <webElementGuid>1f3d2638-3b46-4b0e-831d-6c76fde6b363</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;RXJyb3JBbiUyMFVuZXhwZWN0ZWQlMjBFcnJvciUyME9jY3VyZWRyZWQ&quot;)/div[@class=&quot;iziToast-body&quot;]/div[@class=&quot;iziToast-texts&quot;]/p[@class=&quot;iziToast-message slideIn&quot;]</value>
+      <webElementGuid>63c38196-c00e-42d9-bb58-6ebe5d1161c8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='RXJyb3JBbiUyMFVuZXhwZWN0ZWQlMjBFcnJvciUyME9jY3VyZWRyZWQ']/div/div/p</value>
+      <webElementGuid>b1bbaf62-9b62-44b0-87de-4fae7fd32c65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Error'])[1]/following::p[1]</value>
+      <webElementGuid>6b0c257f-92e9-47be-aedf-4af6e1a5c816</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::p[1]</value>
+      <webElementGuid>8b3b06c0-001e-4d63-9e75-0efdc3cf7ab8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='An Unexpected Error Occured']/parent::*</value>
+      <webElementGuid>b79b2687-65eb-4102-b3dc-f43d52535437</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/p</value>
+      <webElementGuid>5ef990d8-3d0f-4701-aa71-26ccda5368a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'An Unexpected Error Occured' or . = 'An Unexpected Error Occured')]</value>
+      <webElementGuid>cf271fad-0bfa-4387-a883-a91cc3951c10</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

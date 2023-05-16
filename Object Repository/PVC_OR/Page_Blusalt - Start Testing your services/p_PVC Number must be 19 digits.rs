@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_PVC Number must be 19 digits</name>
+   <tag></tag>
+   <elementGuidId>60583d25-dd04-484f-8c27-9e0e0698e64e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='RXJyb3JQVkMlMjBOdW1iZXIlMjBtdXN0JTIwYmUlMjAxOSUyMGRpZ2l0c3JlZA']/div/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.iziToast-message.slideIn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>873cac6e-7a12-407c-b59b-68b50cc0634e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>iziToast-message slideIn</value>
+      <webElementGuid>04a3b89b-7d59-4dee-9dbe-1b210cf09146</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PVC Number must be 19 digits</value>
+      <webElementGuid>04e9182c-d2bc-4903-8ce0-d78f93fad018</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;RXJyb3JQVkMlMjBOdW1iZXIlMjBtdXN0JTIwYmUlMjAxOSUyMGRpZ2l0c3JlZA&quot;)/div[@class=&quot;iziToast-body&quot;]/div[@class=&quot;iziToast-texts&quot;]/p[@class=&quot;iziToast-message slideIn&quot;]</value>
+      <webElementGuid>590a8ce0-7d9c-4b3d-8682-534e86856e9d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='RXJyb3JQVkMlMjBOdW1iZXIlMjBtdXN0JTIwYmUlMjAxOSUyMGRpZ2l0c3JlZA']/div/div/p</value>
+      <webElementGuid>a9f342a7-6971-4aa9-a072-08237defb413</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Error'])[1]/following::p[1]</value>
+      <webElementGuid>d8af41e8-b0fa-4c52-9a44-2a5fff6606a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© 2023 BluSalt'])[1]/following::p[1]</value>
+      <webElementGuid>a0705c2e-4689-405c-9a2f-b285fb278c3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='PVC Number must be 19 digits']/parent::*</value>
+      <webElementGuid>65813c64-a837-4c8b-958a-f648e1087b1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/p</value>
+      <webElementGuid>e31df57e-e8ae-4fb2-b62d-f9446a7bc8e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'PVC Number must be 19 digits' or . = 'PVC Number must be 19 digits')]</value>
+      <webElementGuid>8fa67d99-3bab-4c3d-8faa-fe6240e27098</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
