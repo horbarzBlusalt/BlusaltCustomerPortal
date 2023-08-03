@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_17</name>
+   <tag></tag>
+   <elementGuidId>37c00f06-327a-4706-a10d-1b34816ce81e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sms_logs']/div/div/div/form/div/div[2]/div/div/div/div[2]/div/span[30]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.cell.day.today</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1138c500-8196-4619-aa05-330e5fd6a840</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cell day today</value>
+      <webElementGuid>634f81b4-730e-4e3f-a58d-94e6fc6f195d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>17</value>
+      <webElementGuid>18b9d3ff-8655-4687-9f87-b0a5a52e829c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sms_logs&quot;)/div[@class=&quot;col-12 pt-3&quot;]/div[@class=&quot;px-3&quot;]/div[@class=&quot;filters-wrapper&quot;]/form[@class=&quot;active&quot;]/div[@class=&quot;row mb-2&quot;]/div[@class=&quot;col-sm-6 px-sm-2 col-md-4 col-xl-3&quot;]/div[@class=&quot;form-group mb-4&quot;]/div[@class=&quot;input-wrapper date&quot;]/div[@class=&quot;vdp-datepicker&quot;]/div[@class=&quot;vdp-datepicker__calendar&quot;]/div[1]/span[@class=&quot;cell day today&quot;]</value>
+      <webElementGuid>47be777b-b3c9-4966-a7c8-8a856316de9f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sms_logs']/div/div/div/form/div/div[2]/div/div/div/div[2]/div/span[30]</value>
+      <webElementGuid>5ebe6026-d1eb-4bf2-8e9e-3c54cb0dfeb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sat'])[2]/following::span[23]</value>
+      <webElementGuid>b75fd627-a5b2-4f14-8ec8-86f14daf6358</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fri'])[2]/following::span[24]</value>
+      <webElementGuid>9af4a2b2-208c-43b0-81e0-dcd98136e86a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='&lt;'])[5]/preceding::span[15]</value>
+      <webElementGuid>2772fe73-c1aa-44d9-a8d9-80849a39e2a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='>'])[5]/preceding::span[17]</value>
+      <webElementGuid>03d8ff2f-95cf-4c85-b15c-434224cb7879</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div/span[30]</value>
+      <webElementGuid>9fcd78f7-9b08-41cf-8980-297e6413bbe7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '17' or . = '17')]</value>
+      <webElementGuid>e2b80147-f968-462c-8d99-14d2a362acd7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

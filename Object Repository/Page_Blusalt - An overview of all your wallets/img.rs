@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>7e22c712-7a27-420a-a3a3-1bb4babd126c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='requestFund']/div/div/div/button/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#requestFund > div.modal-dialog.modal-dialog-centered.modal-xl > div.modal-content > div.text-center.pos-relative.modal-header > button.close > img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>c554ac1d-e177-4e69-ad54-70a6fe4131c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/assets/img/close.png</value>
+      <webElementGuid>0996c7d5-be38-4bfc-bb0c-c7c076775104</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;requestFund&quot;)/div[@class=&quot;modal-dialog modal-dialog-centered modal-xl&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;text-center pos-relative modal-header&quot;]/button[@class=&quot;close&quot;]/img[1]</value>
+      <webElementGuid>515547cf-bdee-4eec-8c60-c003b05fe633</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='requestFund']/div/div/div/button/img</value>
+      <webElementGuid>b9223d92-5f3e-48f9-93e0-db2ad51f1a1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/button/img</value>
+      <webElementGuid>dbe68ae4-13c4-4a9a-8076-daf4fefa746e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/assets/img/close.png']</value>
+      <webElementGuid>e0150b6e-b26b-4fb0-8b88-4b348a6d19d5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

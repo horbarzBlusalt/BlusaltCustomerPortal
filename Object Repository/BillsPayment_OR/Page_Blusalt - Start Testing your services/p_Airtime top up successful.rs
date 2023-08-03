@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Airtime top up successful</name>
+   <tag></tag>
+   <elementGuidId>ad5bb0f2-e5dd-4fed-abd7-311c73eb668c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='T0tBaXJ0aW1lJTIwdG9wJTIwdXAlMjBzdWNjZXNzZnVsZ3JlZW4']/div/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.iziToast-message.slideIn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>afbf9f8e-a84e-4915-8b25-1ea64cf20e74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>iziToast-message slideIn</value>
+      <webElementGuid>67f38a9f-7156-477d-83c5-a1f77dff6241</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Airtime top up successful</value>
+      <webElementGuid>6a0bafcb-7d83-4649-b5e1-8c53d86a16b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;T0tBaXJ0aW1lJTIwdG9wJTIwdXAlMjBzdWNjZXNzZnVsZ3JlZW4&quot;)/div[@class=&quot;iziToast-body&quot;]/div[@class=&quot;iziToast-texts&quot;]/p[@class=&quot;iziToast-message slideIn&quot;]</value>
+      <webElementGuid>2d816a3b-8d49-409a-83c2-0b4ee53a29a0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='T0tBaXJ0aW1lJTIwdG9wJTIwdXAlMjBzdWNjZXNzZnVsZ3JlZW4']/div/div/p</value>
+      <webElementGuid>b4402cbc-1949-4038-a9d6-7b4a475c82fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[1]/following::p[1]</value>
+      <webElementGuid>f193278d-ea9e-41a7-bfe3-b8ad95b3d16c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© 2023 BluSalt'])[1]/following::p[1]</value>
+      <webElementGuid>5bf5e9d7-5c22-472b-bf0f-156835b45831</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/p</value>
+      <webElementGuid>91368660-a0b3-48fa-866e-07d679aa8eae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Airtime top up successful' or . = 'Airtime top up successful')]</value>
+      <webElementGuid>4a2a384d-6b4b-4dca-a08a-f2bb886f0840</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

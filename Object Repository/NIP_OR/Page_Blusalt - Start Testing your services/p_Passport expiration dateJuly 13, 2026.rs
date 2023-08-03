@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Passport expiration dateJuly 13, 2026</name>
+   <tag></tag>
+   <elementGuidId>eea52696-30d1-4377-bb49-1697fc00541c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='elBody']/div[2]/div[2]/div[2]/div/div/div/div[2]/p[7]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>30a98400-1b28-4374-8935-afb405491190</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>invoice-info-row preview-row</value>
+      <webElementGuid>630b7117-b8ad-42f6-8c7c-510aaf7df96e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Passport expiration dateJuly 13, 2026</value>
+      <webElementGuid>86ad8dff-9e67-42aa-bcfd-33d074021841</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;elBody&quot;)/div[@class=&quot;az-content az-content-dashboard-nine&quot;]/div[@class=&quot;az-content-box&quot;]/div[@class=&quot;az-content-body tab-content&quot;]/div[1]/div[@class=&quot;col-12&quot;]/div[@class=&quot;user-settings-section&quot;]/div[@class=&quot;preview-content&quot;]/p[@class=&quot;invoice-info-row preview-row&quot;]</value>
+      <webElementGuid>44c9aeeb-4ad6-4cfa-a321-d9e230c18b58</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='elBody']/div[2]/div[2]/div[2]/div/div/div/div[2]/p[7]</value>
+      <webElementGuid>b3cf6c36-33e9-4cbe-92eb-66f8cabf23e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='B00461570'])[1]/following::p[1]</value>
+      <webElementGuid>da61c98a-34db-485f-82e1-0b0d1a1b55c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Passport number'])[1]/following::p[1]</value>
+      <webElementGuid>932233e7-8667-4e20-ae41-488a7ac7cd74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[7]</value>
+      <webElementGuid>5977e9d7-9e17-4101-af9e-ba2ce4f6bb9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Passport expiration dateJuly 13, 2026' or . = 'Passport expiration dateJuly 13, 2026')]</value>
+      <webElementGuid>3b91fcf1-e2f9-4aec-aa60-6f0bf79bc79f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Update Invoice</name>
+   <tag></tag>
+   <elementGuidId>700ae229-fe0f-42db-8326-c7ee1f980d7b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='elBody']/div[2]/div[2]/div/div/div[2]/div[2]/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn--lg.btn--primary.py-3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0a15ecab-6e6a-475f-9235-6df8db961a1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn--lg btn--primary py-3</value>
+      <webElementGuid>d4b3be04-9f9c-429c-9327-7ce685793d11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Update Invoice</value>
+      <webElementGuid>a674a835-c6e3-4ca9-953a-3e3d20dc2a66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;elBody&quot;)/div[@class=&quot;az-content az-content-dashboard-nine&quot;]/div[2]/div[@class=&quot;p-md-4&quot;]/div[@class=&quot;row justify-content-between create-invoice&quot;]/div[@class=&quot;create_invoice_wrapper&quot;]/div[@class=&quot;create-invoice-button&quot;]/div[1]/button[@class=&quot;btn btn--lg btn--primary py-3&quot;]</value>
+      <webElementGuid>1613dff2-844a-4b96-a4f2-26769832ed1c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='elBody']/div[2]/div[2]/div/div/div[2]/div[2]/div/button</value>
+      <webElementGuid>29bd6b02-9b9a-4d5c-af15-eb6594dda4ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[19]/following::button[1]</value>
+      <webElementGuid>a68282d7-90a7-44e2-9d63-b26db2174be8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms And Condition'])[1]/following::button[1]</value>
+      <webElementGuid>98b4a162-b6a6-440e-a593-ae520055cd96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Preview Invoice'])[1]/preceding::button[1]</value>
+      <webElementGuid>2f13c15d-da2f-45e9-9636-f85b6e9e750c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button</value>
+      <webElementGuid>cba1b8da-b6c7-4d54-b140-8730e9df260d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Update Invoice' or . = 'Update Invoice')]</value>
+      <webElementGuid>88935dcd-c28d-497d-82fa-389394aa3b24</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

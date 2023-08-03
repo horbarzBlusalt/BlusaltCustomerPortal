@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_National Identity Number (NIN)</name>
+   <tag></tag>
+   <elementGuidId>455dc3ff-a3ed-463b-b71a-efdc0dd1bbb1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='collapseOne']/nav/a[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>79c95657-bab3-4775-a6d7-c1be394e7062</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>da1ac078-337c-4de6-ac02-62feddba4acf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link</value>
+      <webElementGuid>579d1870-5a2c-4ea9-8efd-037f92db9acd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>National Identity Number (NIN)</value>
+      <webElementGuid>fbe8388e-1ebd-4bba-aac8-b52af7cecbf3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;collapseOne&quot;)/nav[@class=&quot;nav az-nav-column mg-b-20&quot;]/a[@class=&quot;nav-link&quot;]</value>
+      <webElementGuid>653eb12e-38dc-4dae-ab16-add8f7ecb303</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='collapseOne']/nav/a[5]</value>
+      <webElementGuid>adcf597d-60fc-4659-b28f-99b6d524fb40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'National Identity Number (NIN)')]</value>
+      <webElementGuid>46e22476-a275-4b10-81a3-732dbaf57934</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Permanent Voters Card (PVC)'])[1]/following::a[1]</value>
+      <webElementGuid>f7fea445-0a5f-42d7-8efa-6dabe05c3239</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bank Verification Number (Bulk-BVN)'])[1]/following::a[2]</value>
+      <webElementGuid>13e876a4-3f42-4ec8-9aa1-2d50115cf3bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bulk National Identity (Bulk-NIN)'])[1]/preceding::a[1]</value>
+      <webElementGuid>360dc4dd-a4f8-4cc1-8db5-d31951ca3695</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='National Identity Number (NIN)']/parent::*</value>
+      <webElementGuid>1d587a5b-24ca-4371-8d4a-358b0605287c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '')])[49]</value>
+      <webElementGuid>00ac946d-f1ff-4ada-85b2-20979fe278cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/nav/a[5]</value>
+      <webElementGuid>61022ceb-c4a3-42d4-805e-0ea903fa99ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'National Identity Number (NIN)' or . = 'National Identity Number (NIN)')]</value>
+      <webElementGuid>f62f6ad7-4a56-4e26-ad08-48a00916bbf1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

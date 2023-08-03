@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Enugu Disco</name>
+   <tag></tag>
+   <elementGuidId>5a961d40-41f1-4646-a83e-0de25a638c0c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='vs22__option-2']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#vs22__option-2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>3d0dce11-5c2d-439b-b724-14140e2563c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>vs22__option-2</value>
+      <webElementGuid>f566b2e8-a6be-4ed8-8f0c-81781f3124ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>84724a3d-9eec-4549-a08e-53772c936f9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vs__dropdown-option vs__dropdown-option--highlight</value>
+      <webElementGuid>a9c4a046-3bb3-49b8-8c07-7baf954eb7c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>d5290cea-3f30-4dd7-86f5-33bad234fc3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+          Enugu Disco
+        </value>
+      <webElementGuid>190baa69-59dc-4559-bfca-ddd7a91f2eab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;vs22__option-2&quot;)</value>
+      <webElementGuid>9cedf980-f6ff-40c8-ae60-27da03a18bb8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//li[@id='vs22__option-2']</value>
+      <webElementGuid>d852823b-27b6-49ab-9de0-3440bd47dda1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='vs22__listbox']/li[3]</value>
+      <webElementGuid>ad1aab36-d8bb-44cb-a2c6-1e0133d6484c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Eko Disco'])[1]/following::li[1]</value>
+      <webElementGuid>7eab97be-dc8b-4283-acaa-6ea7e2b7b8ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Abuja Disco'])[1]/following::li[2]</value>
+      <webElementGuid>7c3d7fd2-6475-4ef0-9e44-7b9dd5a54983</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ibadan Disco'])[1]/preceding::li[1]</value>
+      <webElementGuid>5ea61545-e743-402e-89e3-8c84c3574863</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ikeja Disco'])[1]/preceding::li[2]</value>
+      <webElementGuid>9e9c1e99-1aa1-4177-b40d-bfe6286e4887</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Enugu Disco']/parent::*</value>
+      <webElementGuid>b2403105-1852-4da9-bd4f-f8f0868770c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/ul/li[3]</value>
+      <webElementGuid>35fbc795-ca59-4d42-ba80-adfcc8e3a64f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[@id = 'vs22__option-2' and (text() = '
+          Enugu Disco
+        ' or . = '
+          Enugu Disco
+        ')]</value>
+      <webElementGuid>2c1db904-72e3-4a3b-a3ee-f4087e82a393</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

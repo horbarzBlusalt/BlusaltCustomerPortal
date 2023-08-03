@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>em_Password_fas fa-eye-slash fs-24</name>
+   <tag></tag>
+   <elementGuidId>c2e8541a-d679-49ac-9f15-985aee83f431</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//em</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>em.fas.fa-eye-slash.fs-24</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>em</value>
+      <webElementGuid>ddab39e1-b5ec-48a6-b44c-c473c0ecf049</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-eye-slash fs-24</value>
+      <webElementGuid>4d64d515-10ed-4b39-acff-4913f662fb99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;&quot;]/body[1]/div[1]/div[@class=&quot;w-bg page-ath&quot;]/div[@class=&quot;row justify-content-center align-items-center&quot;]/div[@class=&quot;no-sm-padding col-xl-4 col-lg-5 col-md-4 col-sm-12&quot;]/div[1]/div[@class=&quot;card-innr card-login auth-card&quot;]/form[1]/div[@class=&quot;form-group mg-b-20&quot;]/div[@class=&quot;pos-relative&quot;]/div[@class=&quot;d-flex pos-absolute t-5 mt-2 r-10&quot;]/span[@class=&quot;input-icon input-icon-right&quot;]/em[@class=&quot;fas fa-eye-slash fs-24&quot;]</value>
+      <webElementGuid>e4727d32-06fc-46db-8244-bdfca6f49f8d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//em</value>
+      <webElementGuid>aed65710-a726-4c32-b743-7335d1b50358</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

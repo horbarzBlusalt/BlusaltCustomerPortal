@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input__vti__input</name>
+   <tag></tag>
+   <elementGuidId>80961bc6-b6c2-4014-8b74-35550c773285</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='send_single_sms']/form/div/div/div[2]/div/div[2]/div/input</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.vti__input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>d54eb07a-c236-4f54-8b04-e7c71e28bac2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Enter your phone number</value>
+      <webElementGuid>69f76a7d-0cd2-4dba-9c1f-f5d4f67b6dd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vti__input</value>
+      <webElementGuid>8f75c21f-40fb-4ebb-91b2-694fcdd8fd98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;send_single_sms&quot;)/form[@class=&quot;row border-bottom pb-4 my-4&quot;]/div[@class=&quot;col-8&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-9 col-md-6&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;input-wrapper&quot;]/div[@class=&quot;form-control w-100 input-bordered p-0 vue-tel-input&quot;]/input[@class=&quot;vti__input&quot;]</value>
+      <webElementGuid>f2a9716d-c2ac-4b8a-8180-4494be5ad52d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='send_single_sms']/form/div/div/div[2]/div/div[2]/div/input</value>
+      <webElementGuid>122cfc06-00ea-40fa-bb8f-8cd1b10b209f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>adc68a87-db20-4880-87e5-20030a7cb34b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Enter your phone number']</value>
+      <webElementGuid>e740af34-266f-440b-9ef3-d92df2ad08f7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

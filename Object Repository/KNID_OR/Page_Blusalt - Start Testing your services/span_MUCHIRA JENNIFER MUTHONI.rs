@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_MUCHIRA JENNIFER MUTHONI</name>
+   <tag></tag>
+   <elementGuidId>effcf5f9-eed4-4459-8f8f-ed5785e8a1bb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='elBody']/div[2]/div[2]/div[2]/div/div/div/div[2]/p/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2646e560-bcc3-4ac5-96b4-52a4ea60736f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MUCHIRA JENNIFER MUTHONI</value>
+      <webElementGuid>225f41c6-a9ad-4e92-9eed-b421eda1eada</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;elBody&quot;)/div[@class=&quot;az-content az-content-dashboard-nine&quot;]/div[@class=&quot;az-content-box&quot;]/div[@class=&quot;az-content-body tab-content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;user-settings-section&quot;]/div[@class=&quot;preview-content&quot;]/p[@class=&quot;invoice-info-row preview-row&quot;]/span[2]</value>
+      <webElementGuid>ed5a75c9-3787-4638-b889-56e422d204fb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='elBody']/div[2]/div[2]/div[2]/div/div/div/div[2]/p/span[2]</value>
+      <webElementGuid>c2b40af4-b3af-4c1c-aefc-e3fe645025b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Full Name'])[1]/following::span[1]</value>
+      <webElementGuid>7eecd595-79a1-492c-8446-1130d98da2af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dob'])[1]/preceding::span[1]</value>
+      <webElementGuid>636a4e8b-3cfe-42fd-82f1-9b3b68dc6f56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='National ID Number'])[1]/preceding::span[3]</value>
+      <webElementGuid>7ad99475-9b56-4c46-a1fa-8455d51aeb72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='MUCHIRA JENNIFER MUTHONI']/parent::*</value>
+      <webElementGuid>8e83cf51-a16e-4d83-a2a7-c871247d4efd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p/span[2]</value>
+      <webElementGuid>2cf9bb05-900f-452a-a9fc-3b5e50bb92a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'MUCHIRA JENNIFER MUTHONI' or . = 'MUCHIRA JENNIFER MUTHONI')]</value>
+      <webElementGuid>81bfbb57-850d-456e-a21d-aa94456280a3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

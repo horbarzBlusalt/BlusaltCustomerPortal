@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_(DL) Drivers Licence</name>
+   <tag></tag>
+   <elementGuidId>36bcc786-404e-481d-b3ee-58b14fd43324</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='vs2__option-3']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#vs2__option-3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>2eccac5d-0726-4e98-8410-a7fcf60fb51e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>vs2__option-3</value>
+      <webElementGuid>2629686b-1c55-4197-9ae9-c7894b69e0df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>166ed34c-1031-4d8d-8e34-eafff9d132e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vs__dropdown-option vs__dropdown-option--highlight</value>
+      <webElementGuid>119b02cf-b5ee-495f-ba95-988cfbf84f5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>4e786b3b-b590-4557-8cfd-f15f63b1753e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+          (DL) Drivers Licence
+        </value>
+      <webElementGuid>9f323d24-205e-4704-83ba-e6a0bb62168f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;vs2__option-3&quot;)</value>
+      <webElementGuid>ac36e36e-2d42-4624-a4e1-339c3c7990e5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//li[@id='vs2__option-3']</value>
+      <webElementGuid>7e77c9cb-2e71-498d-aa19-7a6f65205a30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='vs2__listbox']/li[4]</value>
+      <webElementGuid>83041d3e-c288-4e7a-88b4-5a9537be6c46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(PVC) Permanent Voters Card'])[7]/following::li[1]</value>
+      <webElementGuid>9a25ac2b-e239-4d38-8654-439a41fe335c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(NIN) National Identity Number'])[11]/following::li[2]</value>
+      <webElementGuid>51bd291b-af4f-460c-a611-1632174c6664</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(NIP) Nigerian International Passport'])[8]/preceding::li[1]</value>
+      <webElementGuid>ccc9a66d-25f0-4717-b8ae-0eb725e21a76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Address Verification'])[7]/preceding::li[2]</value>
+      <webElementGuid>2fb720be-236a-4cf6-a866-76b52e39b9b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/ul/li[4]</value>
+      <webElementGuid>31553460-c04e-4990-87a2-8be6d9055470</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[@id = 'vs2__option-3' and (text() = '
+          (DL) Drivers Licence
+        ' or . = '
+          (DL) Drivers Licence
+        ')]</value>
+      <webElementGuid>c35d53ed-2342-453b-b467-7d1f46604619</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

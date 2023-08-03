@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_A duplicate resource already exists</name>
+   <tag></tag>
+   <elementGuidId>f6ff1e44-ac69-4788-a309-16854bd08e92</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='RXJyb3JBJTIwZHVwbGljYXRlJTIwcmVzb3VyY2UlMjBhbHJlYWR5JTIwZXhpc3RzcmVk']/div/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.iziToast-message.slideIn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>8225f912-1aae-4e26-b817-aeacbc7531f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>iziToast-message slideIn</value>
+      <webElementGuid>536d1355-aa37-4fb2-aaca-efff6685a21c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>A duplicate resource already exists</value>
+      <webElementGuid>64c51a56-8aff-4a3f-ab27-a6472ddb7839</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;RXJyb3JBJTIwZHVwbGljYXRlJTIwcmVzb3VyY2UlMjBhbHJlYWR5JTIwZXhpc3RzcmVk&quot;)/div[@class=&quot;iziToast-body&quot;]/div[@class=&quot;iziToast-texts&quot;]/p[@class=&quot;iziToast-message slideIn&quot;]</value>
+      <webElementGuid>6b3b19d2-bd17-4a0a-9026-9f5a1e0e4d4f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='RXJyb3JBJTIwZHVwbGljYXRlJTIwcmVzb3VyY2UlMjBhbHJlYWR5JTIwZXhpc3RzcmVk']/div/div/p</value>
+      <webElementGuid>80a4e7b1-5d7a-4d43-9c7e-860823938608</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Error'])[1]/following::p[1]</value>
+      <webElementGuid>022bae31-03d4-4a75-88be-80883e3598ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© 2023 BluSalt'])[1]/following::p[1]</value>
+      <webElementGuid>fc866b64-8e34-4f13-8da9-703cf3fbde25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='A duplicate resource already exists']/parent::*</value>
+      <webElementGuid>37be2feb-0632-4c7d-9c83-fdcfccbce3d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div/p</value>
+      <webElementGuid>8754ffa8-fe71-49fc-88ed-22d3009e2768</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'A duplicate resource already exists' or . = 'A duplicate resource already exists')]</value>
+      <webElementGuid>afa3ae39-8318-42d7-b97f-8811f1946e12</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

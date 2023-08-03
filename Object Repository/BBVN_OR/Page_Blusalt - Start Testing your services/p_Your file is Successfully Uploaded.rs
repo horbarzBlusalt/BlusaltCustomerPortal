@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Your file is Successfully Uploaded</name>
+   <tag></tag>
+   <elementGuidId>ad858b49-c704-429e-b73e-ada495983683</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='T0tZb3VyJTIwZmlsZSUyMGlzJTIwU3VjY2Vzc2Z1bGx5JTIwVXBsb2FkZWRncmVlbg']/div/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.iziToast-message.slideIn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>da765a9b-cff9-4e75-bb18-1c8185e2438b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>iziToast-message slideIn</value>
+      <webElementGuid>cedfa7dc-ec0b-45aa-9762-0599c5182628</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Your file is Successfully Uploaded</value>
+      <webElementGuid>8d5daa97-ae06-4bb8-96d5-a5b5b5388ddc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;T0tZb3VyJTIwZmlsZSUyMGlzJTIwU3VjY2Vzc2Z1bGx5JTIwVXBsb2FkZWRncmVlbg&quot;)/div[@class=&quot;iziToast-body&quot;]/div[@class=&quot;iziToast-texts&quot;]/p[@class=&quot;iziToast-message slideIn&quot;]</value>
+      <webElementGuid>fb5b572a-3d12-4ee9-b22b-5826cd77e633</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='T0tZb3VyJTIwZmlsZSUyMGlzJTIwU3VjY2Vzc2Z1bGx5JTIwVXBsb2FkZWRncmVlbg']/div/div/p</value>
+      <webElementGuid>10135448-47af-419d-a2d0-21ed9e85017b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[1]/following::p[1]</value>
+      <webElementGuid>5acd0fa5-6523-429b-992c-3f9175c8540d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© 2023 BluSalt'])[1]/following::p[1]</value>
+      <webElementGuid>a014f580-7525-4613-a46f-f61a8cc93070</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Your file is Successfully Uploaded']/parent::*</value>
+      <webElementGuid>1e528ac0-9459-4036-84c2-716b8948c06e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/p</value>
+      <webElementGuid>f7514ef0-7fed-4b08-abc9-34e34e3f25fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Your file is Successfully Uploaded' or . = 'Your file is Successfully Uploaded')]</value>
+      <webElementGuid>24b4f10d-91f4-4283-9659-775a095e1ec2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

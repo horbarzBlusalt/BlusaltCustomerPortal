@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_FirstnameOBALOLUWA</name>
+   <tag></tag>
+   <elementGuidId>f99014ef-90b0-4027-8a97-f74d1f9a70f0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//p[(text() = 'OBALOLUWA' or . = 'OBALOLUWA')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.invoice-info-row.preview-row</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='elBody']/div[2]/div[2]/div[2]/div/div/div/div[2]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>fe261de8-d9f6-4acb-9505-dbc49f3a7fa1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>invoice-info-row preview-row</value>
+      <webElementGuid>72a54921-8e3a-4b5f-b23c-a10aa0ec4aa8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>OBALOLUWA</value>
+      <webElementGuid>c47bec34-953c-4c6e-a477-e8a12cb8d527</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;elBody&quot;)/div[@class=&quot;az-content az-content-dashboard-nine&quot;]/div[@class=&quot;az-content-box&quot;]/div[@class=&quot;az-content-body tab-content&quot;]/div[1]/div[@class=&quot;col-12&quot;]/div[@class=&quot;user-settings-section&quot;]/div[@class=&quot;preview-content&quot;]/p[@class=&quot;invoice-info-row preview-row&quot;]</value>
+      <webElementGuid>f96d668d-395c-4e4f-9c94-93a34b39009a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='elBody']/div[2]/div[2]/div[2]/div/div/div/div[2]/p</value>
+      <webElementGuid>ade1e23c-3655-4365-81ca-8da8787bfb39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Preview of the information gotten from NIN request made'])[1]/following::p[1]</value>
+      <webElementGuid>ea1b4025-9a1e-4279-ad1c-d88ba7ea6740</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NIN Request Response'])[1]/following::p[1]</value>
+      <webElementGuid>9bba4c10-a636-40fa-8d01-0fa5bb2e9ca6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>40e5bec5-234e-441b-acdb-6335e0c91923</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'FirstnameOBALOLUWA' or . = 'FirstnameOBALOLUWA')]</value>
+      <webElementGuid>5a327290-9768-4f24-8c7e-6a6f9b03d030</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

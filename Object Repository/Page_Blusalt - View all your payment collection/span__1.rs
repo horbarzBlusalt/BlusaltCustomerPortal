@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span__1</name>
+   <tag></tag>
+   <elementGuidId>d19232d8-d469-4dad-9b09-9e75926961ec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='elBody']/div[2]/div[2]/div/div[3]/div/div/form/div/div[3]/div/div/div/div[2]/header/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.prev.disabled</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d52fa74a-8334-4f25-8bdb-1490df66f81d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>prev disabled</value>
+      <webElementGuid>581065ef-f733-4621-b68d-7616384c2ae1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>&lt;</value>
+      <webElementGuid>eb077193-23d5-4029-aba9-7f3bea7f6b63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;elBody&quot;)/div[@class=&quot;az-content az-content-dashboard-nine&quot;]/div[2]/div[@class=&quot;p-md-4 p-3&quot;]/div[@class=&quot;pt-3&quot;]/div[@class=&quot;px-3&quot;]/div[@class=&quot;filters-wrapper&quot;]/form[@class=&quot;active&quot;]/div[@class=&quot;row mb-2&quot;]/div[@class=&quot;col-sm-6 px-sm-2 col-md-4 col-xl-3&quot;]/div[@class=&quot;form-group mb-4&quot;]/div[@class=&quot;input-wrapper date&quot;]/div[@class=&quot;vdp-datepicker&quot;]/div[@class=&quot;vdp-datepicker__calendar&quot;]/header[1]/span[@class=&quot;prev disabled&quot;]</value>
+      <webElementGuid>892f8e8b-ff97-46ad-bfb5-54ab34a08088</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='elBody']/div[2]/div[2]/div/div[3]/div/div/form/div/div[3]/div/div/div/div[2]/header/span</value>
+      <webElementGuid>b8a90454-03db-42da-a5fb-68004cd1d2cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::span[1]</value>
+      <webElementGuid>f50d5054-4abc-4bc6-bbbf-a61e14ebd648</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='>'])[3]/following::span[12]</value>
+      <webElementGuid>0fc76b7e-2d4b-4c72-9517-85ee2e47a880</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jun 2023'])[2]/preceding::span[1]</value>
+      <webElementGuid>9317e8f3-e29a-434a-b840-befd6d481d7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='>'])[4]/preceding::span[2]</value>
+      <webElementGuid>fcb96e1e-ec22-4236-94d9-651dc05cde16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div[2]/header/span</value>
+      <webElementGuid>d6940273-865b-4353-a015-85590c16d122</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '&lt;' or . = '&lt;')]</value>
+      <webElementGuid>b67ee546-048d-4f29-9ecd-d19b0f488166</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

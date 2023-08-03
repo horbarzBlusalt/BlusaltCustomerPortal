@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i__far fa-times-circle</name>
+   <tag></tag>
+   <elementGuidId>c1911c84-1354-46e6-a650-6d8ebb0dfdc7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='elBody']/div[2]/div[2]/div/div[3]/div[2]/div/div/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.far.fa-times-circle</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>ebdec014-0c79-4744-ba22-a1df932dd5d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>far fa-times-circle</value>
+      <webElementGuid>0f39468f-5df5-4a89-8597-71216ed2dda7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;elBody&quot;)/div[@class=&quot;az-content az-content-dashboard-nine&quot;]/div[2]/div[@class=&quot;p-md-4 p-3&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;table-modal-wrapper transaction&quot;]/div[@class=&quot;table-modal&quot;]/div[@class=&quot;p-3&quot;]/i[@class=&quot;far fa-times-circle&quot;]</value>
+      <webElementGuid>3d4960a0-309c-4cb3-ae60-61dc5165bbe6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='elBody']/div[2]/div[2]/div/div[3]/div[2]/div/div/i</value>
+      <webElementGuid>f9b870e8-fdd5-4a1f-9f1f-0be05c7e9322</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/i</value>
+      <webElementGuid>44a2cb62-1c23-4fe7-a95d-341548794697</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

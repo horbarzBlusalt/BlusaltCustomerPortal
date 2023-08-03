@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_United Kingdom 44</name>
+   <tag></tag>
+   <elementGuidId>a9042727-8028-443a-80bb-a7a7cfaa5471</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='elBody']/div[2]/div[2]/div[2]/div/div/div/div[2]/form/div[2]/div/div/div[2]/div/div/ul/li[230]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.vti__dropdown-item.highlighted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>4f6c251b-1a0f-4d0e-97ff-6e7d3eb89744</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>9d867de1-e09c-441e-9932-7bc7f12e3361</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>2c372431-10e5-41f1-a8c0-b754b407c607</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vti__dropdown-item highlighted</value>
+      <webElementGuid>7e3b1805-5e73-4a58-8576-cd72dfad1d9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>United Kingdom +44 </value>
+      <webElementGuid>a4e36549-574c-4fd0-ae9c-13ab2ec995ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;elBody&quot;)/div[@class=&quot;az-content az-content-dashboard-nine&quot;]/div[@class=&quot;az-content-box&quot;]/div[@class=&quot;az-content-body tab-content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/div[1]/div[@class=&quot;contact-details--card&quot;]/form[1]/div[@class=&quot;row mt-4&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;input-wrapper   error&quot;]/div[@class=&quot;form-control w-100 input-bordered p-0 vue-tel-input&quot;]/div[@class=&quot;vti__dropdown open&quot;]/ul[@class=&quot;vti__dropdown-list below&quot;]/li[@class=&quot;vti__dropdown-item highlighted&quot;]</value>
+      <webElementGuid>46d3f14f-004b-4f67-93b0-1c70d44ce720</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='elBody']/div[2]/div[2]/div[2]/div/div/div/div[2]/form/div[2]/div/div/div[2]/div/div/ul/li[230]</value>
+      <webElementGuid>31000f0b-a11d-4691-8647-235cf456114b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='United Arab Emirates (‫الإمارات العربية المتحدة‬‎)'])[1]/following::li[1]</value>
+      <webElementGuid>3e3ad264-81a3-4e8e-b381-687f279789ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ukraine (Україна)'])[1]/following::li[2]</value>
+      <webElementGuid>1d337339-09cd-4d90-b9af-e361194a8e77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='United States'])[1]/preceding::li[1]</value>
+      <webElementGuid>6fea905b-6be2-4e32-b040-407104126602</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[230]</value>
+      <webElementGuid>14b1f3b0-8a0c-4aa4-b163-af465b519665</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'United Kingdom +44 ' or . = 'United Kingdom +44 ')]</value>
+      <webElementGuid>23bef5aa-0233-4491-bcf6-4acc1af21a03</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

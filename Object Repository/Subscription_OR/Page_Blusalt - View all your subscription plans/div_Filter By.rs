@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Filter By</name>
+   <tag></tag>
+   <elementGuidId>cdbc1840-4a4c-4fe7-8d16-aca194d02ebd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='elBody']/div[2]/div[2]/div/div[3]/div/div/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.filter-icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>43d2148d-428b-43df-a457-acf8e62a17af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>filter-icon</value>
+      <webElementGuid>ec5819f2-9399-4eb7-8219-43f0a23099bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Filter By</value>
+      <webElementGuid>206cd52c-8bb1-47a0-a643-d29abaae91ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;elBody&quot;)/div[@class=&quot;az-content az-content-dashboard-nine&quot;]/div[2]/div[@class=&quot;p-md-4 p-3&quot;]/div[@class=&quot;card pt-3&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 mt-3&quot;]/div[@class=&quot;px-3&quot;]/div[@class=&quot;filters-wrapper&quot;]/div[@class=&quot;d-flex justify-content-between&quot;]/div[@class=&quot;filter-icon&quot;]</value>
+      <webElementGuid>0cb40e67-396b-401d-aed1-848c5dfaec54</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='elBody']/div[2]/div[2]/div/div[3]/div/div/div/div/div/div</value>
+      <webElementGuid>8324a21c-75fb-4845-a19d-6cccda51dfa6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trails'])[1]/following::div[7]</value>
+      <webElementGuid>6fe46bba-7615-4940-9f49-62603b9d6cd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tax'])[1]/following::div[7]</value>
+      <webElementGuid>7c642b1e-bda6-4422-bc02-34e715248cc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Plan'])[1]/preceding::div[1]</value>
+      <webElementGuid>b9875cc9-44e5-4ace-b561-ae43b689a41c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/div</value>
+      <webElementGuid>6345d4e6-98c0-4f08-938c-e025e0d673b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Filter By' or . = 'Filter By')]</value>
+      <webElementGuid>a94ed7c1-2562-4aee-a605-bb7e78047fa6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

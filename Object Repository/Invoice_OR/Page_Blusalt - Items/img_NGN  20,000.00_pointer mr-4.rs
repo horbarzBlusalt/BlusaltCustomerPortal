@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_NGN  20,000.00_pointer mr-4</name>
+   <tag></tag>
+   <elementGuidId>fb05366d-4faa-424f-a214-a5e968bde33e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='elBody']/div[2]/div[2]/div[3]/div[2]/div/div/div/div[2]/table/tbody/tr/td[6]/div/div/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.pointer.mr-4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>fa1f6517-7aa8-4f27-a284-981ce18300f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/assets/img/icons/edit.png</value>
+      <webElementGuid>28dd19b0-475a-4d75-8509-bcbd0c86d0fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>update item</value>
+      <webElementGuid>f74d2678-01b0-459e-b6d4-93cdc83051d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>25px</value>
+      <webElementGuid>bcc846f7-05e8-43ef-bdaa-efddc2192703</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pointer mr-4</value>
+      <webElementGuid>37200fc4-bbd1-46a9-9081-9ef54dfc1faa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;elBody&quot;)/div[@class=&quot;az-content az-content-dashboard-nine&quot;]/div[@class=&quot;p-md-4 p-3&quot;]/div[@class=&quot;pt-3&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;v-table row-pointer VueTables VueTables--server&quot;]/div[@class=&quot;table-responsive&quot;]/table[@class=&quot;VueTables__table table table-striped table-bordered table-hover&quot;]/tbody[1]/tr[@class=&quot;VueTables__row&quot;]/td[6]/div[1]/div[@class=&quot;d-flex&quot;]/div[1]/img[@class=&quot;pointer mr-4&quot;]</value>
+      <webElementGuid>9bfee2dd-11e6-4bba-89ad-dd7f75d9e406</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='elBody']/div[2]/div[2]/div[3]/div[2]/div/div/div/div[2]/table/tbody/tr/td[6]/div/div/div/img</value>
+      <webElementGuid>c743a765-e607-4f7f-985a-89f92b9730f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='update item']</value>
+      <webElementGuid>4b5c563c-c055-409b-9d7d-c92e4ba4406f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[6]/div/div/div/img</value>
+      <webElementGuid>511f9ad4-e9e7-4820-9f19-3b2fe9be9fc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/assets/img/icons/edit.png' and @alt = 'update item']</value>
+      <webElementGuid>6a6b5dc8-1ce4-4328-a398-970509e3411b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

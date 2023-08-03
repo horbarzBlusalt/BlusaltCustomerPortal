@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Edit Services</name>
+   <tag></tag>
+   <elementGuidId>c9d3de35-4ac7-4c61-ae44-deb78789a78c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='applications']/div/div/div[2]/div[2]/div/a[3])[7]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b02d7d9e-114e-4f8f-9846-6389f3531b90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>modal</value>
+      <webElementGuid>050f9ea9-d048-4868-a443-998f0c614575</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-effect</name>
+      <type>Main</type>
+      <value>effect-scale</value>
+      <webElementGuid>20935c9f-170f-4efd-98c2-06a5939001b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-backdrop</name>
+      <type>Main</type>
+      <value>static</value>
+      <webElementGuid>a295fb0a-4308-4f5e-864d-4ff117ee362a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-target</name>
+      <type>Main</type>
+      <value>#editApplicationService</value>
+      <webElementGuid>95d7b455-ef69-409d-8f98-e1fcc5c13814</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item</value>
+      <webElementGuid>936cf1e3-d802-4b68-bfa3-29d60ada4ea9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        Edit Services
+                      </value>
+      <webElementGuid>a14318a3-0f89-411d-9dae-b18b185e2a2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;active&quot;)/div[@class=&quot;col-lg-12&quot;]/div[@id=&quot;applications&quot;]/div[@class=&quot;app-key-item-wrapper accordion-item&quot;]/div[@class=&quot;app-key-list-item accordion-heading&quot;]/div[@class=&quot;flex__between w-100&quot;]/div[@class=&quot;app-key-action-wrap ellipsis show&quot;]/div[@class=&quot;dropdown-menu show&quot;]/a[@class=&quot;dropdown-item&quot;]</value>
+      <webElementGuid>be46ad96-06fe-4dc2-8f95-0758e074fc64</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='applications']/div/div/div[2]/div[2]/div/a[3])[7]</value>
+      <webElementGuid>fdb772ff-4314-4920-af8f-6995e17d800e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Edit Services')])[7]</value>
+      <webElementGuid>c82037eb-b9a4-4834-9101-5594f7e7ba32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Initialize App'])[1]/following::a[1]</value>
+      <webElementGuid>b71f3032-26da-451d-bd5d-7201338241b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Regenerate key'])[7]/following::a[2]</value>
+      <webElementGuid>34728d61-aaa7-422e-a5d0-7494952f727e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit Application'])[7]/preceding::a[1]</value>
+      <webElementGuid>0d7c55f5-bcc3-4215-91f0-43b5289cf04e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deactivate App'])[7]/preceding::a[2]</value>
+      <webElementGuid>5955758e-7a3c-4571-92cf-0440fd8a9815</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '')])[69]</value>
+      <webElementGuid>e54cec80-e926-4980-a4a0-b2c7ca713b56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div/div[2]/div[2]/div/a[3]</value>
+      <webElementGuid>1e22a7a4-d422-4ba7-a52f-ff208c81e422</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = '
+                        Edit Services
+                      ' or . = '
+                        Edit Services
+                      ')]</value>
+      <webElementGuid>7dc9cf3f-dabb-46a0-b0b2-2a9c0a9b6716</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

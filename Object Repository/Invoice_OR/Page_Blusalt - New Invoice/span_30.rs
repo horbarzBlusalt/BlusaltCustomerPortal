@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_30</name>
+   <tag></tag>
+   <elementGuidId>ac0f8b06-d145-4a75-8066-c4a7d2c04acd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='elBody']/div[2]/div[2]/div/div/div[2]/div/div/div[8]/div/div/div/div/div/div/div[3]/div[5]/span[7]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>814df5fd-a0ed-45f3-aa17-39a80c497ed9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>port</value>
+      <webElementGuid>fca887b3-c9a0-49c9-9ca2-da35f93661a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+              30
+            </value>
+      <webElementGuid>4078e4f1-c99a-434e-a46c-80f0d5442ebf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;elBody&quot;)/div[@class=&quot;az-content az-content-dashboard-nine&quot;]/div[2]/div[@class=&quot;p-md-4&quot;]/div[@class=&quot;row justify-content-between create-invoice&quot;]/div[@class=&quot;create_invoice_wrapper&quot;]/div[@class=&quot;create-invoice-form&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;form-group mb-4&quot;]/div[@class=&quot;input-wrapper date&quot;]/div[@class=&quot;datetime-picker&quot;]/div[1]/div[@class=&quot;calender-div&quot;]/div[1]/div[3]/div[@class=&quot;week&quot;]/span[@class=&quot;port&quot;]</value>
+      <webElementGuid>a9594fc5-6294-41ee-9a8e-775f756d6cd6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='elBody']/div[2]/div[2]/div/div/div[2]/div/div/div[8]/div/div/div/div/div/div/div[3]/div[5]/span[7]</value>
+      <webElementGuid>df0a1f7d-1a2d-4b1c-962b-ed00e5174897</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[2]/following::span[35]</value>
+      <webElementGuid>509028b1-0ca6-4d9e-88b5-cdaddfafa460</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fr'])[2]/following::span[36]</value>
+      <webElementGuid>3ed6364e-4466-4ffd-9b52-51f1fc476053</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[3]/preceding::span[1]</value>
+      <webElementGuid>eb3a0d76-dd0c-434a-8c6b-18a338cb5546</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[4]/preceding::span[2]</value>
+      <webElementGuid>b874f2b1-34c3-4c71-a75b-9784cbeeaa5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div/div/div/div/div/div[3]/div[5]/span[7]</value>
+      <webElementGuid>440e105a-6038-4d5d-bbbf-64440f4ca75d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '
+              30
+            ' or . = '
+              30
+            ')]</value>
+      <webElementGuid>f7f8ff5f-e64d-42a4-9759-0687cece986a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

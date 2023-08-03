@@ -6,15 +6,21 @@
    <elementGuidId>c2f533ac-4488-4240-8fd8-04033eefd46c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//li[@id='vs5__option-0']</value>
+         <key>BASIC</key>
+         <value>//*[contains(@id, 'vs') and (contains(text(), 'NGN
+        ') or contains(., 'NGN
+        '))]</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>#vs5__option-0</value>
       </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='vs5__option-0']</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,15 +28,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>830927a1-bd8d-49ca-bf83-89558a22f7b4</webElementGuid>
+      <webElementGuid>308a93fd-cd6e-4ded-9f34-7e34b7d0ffa9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
+      <matchCondition>contains</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>vs5__option-0</value>
-      <webElementGuid>6e94f1cb-43c0-4086-b303-036a1d234faf</webElementGuid>
+      <value>vs</value>
+      <webElementGuid>3e97eb7c-a703-4cf5-b5ca-561912c25a4d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +44,7 @@
       <name>role</name>
       <type>Main</type>
       <value>option</value>
-      <webElementGuid>9b0af162-8f77-4a31-9783-b437c1de0bb8</webElementGuid>
+      <webElementGuid>bf5e4145-1bce-4495-accb-d67265f0cfaf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +52,7 @@
       <name>class</name>
       <type>Main</type>
       <value>vs__dropdown-option vs__dropdown-option--highlight</value>
-      <webElementGuid>0d5117fa-0a9c-4ff6-842d-3c21620e2348</webElementGuid>
+      <webElementGuid>1ba95e65-4136-4800-8137-47c6221d84e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,17 +60,16 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>b1c5f292-2a13-4d2a-8695-b435235a2e1b</webElementGuid>
+      <webElementGuid>ee97f34e-0b6b-4b9c-875e-c5a810ed34c0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
+      <matchCondition>contains</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>
-          NGN
+      <value>NGN
         </value>
-      <webElementGuid>248e5ab7-8976-4e79-b62c-6cb021b29408</webElementGuid>
+      <webElementGuid>ce082b90-52b0-4252-a7c9-ea2b467099a8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -72,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;vs5__option-0&quot;)</value>
-      <webElementGuid>68302837-f2da-493b-86cc-c6d3ce5ebc5e</webElementGuid>
+      <webElementGuid>164703c9-1a6d-40c3-9ea0-8aca9b929f0f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -80,7 +85,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//li[@id='vs5__option-0']</value>
-      <webElementGuid>3c53c19f-56b6-4db2-90df-60bf7a2e6c1f</webElementGuid>
+      <webElementGuid>d1421a9f-ba99-4416-b7ec-67f74cfdb2f7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -88,7 +93,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ul[@id='vs5__listbox']/li</value>
-      <webElementGuid>419f0356-8756-4096-b2c0-d4896b903d70</webElementGuid>
+      <webElementGuid>5d812e8b-7043-42fd-a088-4f2ee8b803e8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[2]/following::li[1]</value>
-      <webElementGuid>4ba52002-711f-4631-a616-13d211402a9a</webElementGuid>
+      <webElementGuid>c3e3b031-f463-4236-9e2b-dbee22b22ebc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -104,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Currency Type'])[1]/following::li[1]</value>
-      <webElementGuid>16759be4-1a2a-4e36-b2b1-4604254e50e8</webElementGuid>
+      <webElementGuid>8bb8ab48-7cd7-4cd3-8f9a-afa35dbc96a2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -112,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Verify BVN'])[1]/preceding::li[1]</value>
-      <webElementGuid>a776126d-f8a2-4833-bd83-75b13c44fef1</webElementGuid>
+      <webElementGuid>b2f138db-2212-4bb8-ba6f-82b19754f5b0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -120,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='API Request Format'])[1]/preceding::li[1]</value>
-      <webElementGuid>3849ef87-fe5e-4698-a301-6ff32fdd3185</webElementGuid>
+      <webElementGuid>6a6d9912-91ec-45f5-9bf2-9084b620c322</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -128,7 +133,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='NGN']/parent::*</value>
-      <webElementGuid>ada88902-c05c-4171-9fda-3f0f8eb977d6</webElementGuid>
+      <webElementGuid>0e120eb5-de2f-4a94-abfb-95ed9311bad9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -136,7 +141,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div/ul/li</value>
-      <webElementGuid>7aec8a9f-68d1-4666-ac5e-3db4475ebcc0</webElementGuid>
+      <webElementGuid>04a3c87b-ad90-4204-b3c2-9885d842846a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -148,6 +153,6 @@
         ' or . = '
           NGN
         ')]</value>
-      <webElementGuid>700de588-7432-48bc-912c-ae455d8705a7</webElementGuid>
+      <webElementGuid>e48f7d17-72d2-4db1-a392-b654aa84ed81</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

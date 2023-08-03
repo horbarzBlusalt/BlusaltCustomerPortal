@@ -6,12 +6,12 @@
    <elementGuidId>ec8dd618-0775-4883-9456-9324732d7af7</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='vs5__combobox']/div</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#vs5__combobox > div.vs__selected-options</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@placeholder=&quot;Select an Currency Type&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>606989ab-c84c-4211-80a8-5ff16ce404ad</webElementGuid>
+      <webElementGuid>e3cb92d8-d24f-4ac2-a0cd-8f8e73e9d5aa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>vs__selected-options</value>
-      <webElementGuid>8d17a930-5767-4169-b018-05f158750dc0</webElementGuid>
+      <webElementGuid>0b89fece-f118-4b52-9d29-3458300a53be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;vs5__combobox&quot;)/div[@class=&quot;vs__selected-options&quot;]</value>
-      <webElementGuid>de8eca6a-f8ca-45a1-93ca-06133ed752ca</webElementGuid>
+      <webElementGuid>914dd06f-03e4-47c9-8041-ff09ba3e8a1d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='vs5__combobox']/div</value>
-      <webElementGuid>1325ef0b-eba3-4e8b-a508-fed6e7bc4ee9</webElementGuid>
+      <webElementGuid>da73033a-6e79-4e81-ae6a-c05c75aab41f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Currency Type'])[1]/following::div[3]</value>
-      <webElementGuid>1d038b85-0276-4a43-a098-1ea3602c3cfc</webElementGuid>
+      <webElementGuid>c509d6d7-fca1-47ec-8011-65513abf2f12</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Application field is required.'])[1]/following::div[4]</value>
-      <webElementGuid>28670157-9351-4529-8b96-09062b729704</webElementGuid>
+      <webElementGuid>15da55f8-a41d-4f94-aaf4-b88a9da2c14d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[2]/preceding::div[1]</value>
-      <webElementGuid>a8c7f1d6-8c4d-4d9c-afc1-9d127395ab3a</webElementGuid>
+      <webElementGuid>dd826015-8749-40d5-b9d9-a4c7506d5d93</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Verify BVN'])[1]/preceding::div[4]</value>
-      <webElementGuid>f860d570-fefb-4d2c-8f16-c80d1314c9d0</webElementGuid>
+      <webElementGuid>741a7cdf-8147-4bd4-b4b6-0b2b45be7778</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div/div/div</value>
-      <webElementGuid>1a0efa2b-54ac-4a48-9683-79580d42eccb</webElementGuid>
+      <webElementGuid>e38f9cce-3399-4962-ae0c-a37339df1ef9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

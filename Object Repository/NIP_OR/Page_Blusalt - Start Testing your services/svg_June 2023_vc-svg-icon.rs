@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_June 2023_vc-svg-icon</name>
+   <tag></tag>
+   <elementGuidId>ab533146-5870-4bf0-a384-271248837ddc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>svg.vc-svg-icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='June 2023'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>9d91ecd5-88bd-48f7-906e-eccc3b78c1d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>20px</value>
+      <webElementGuid>a7d63ac8-7c6e-45b8-9548-4bd87aee8546</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>24px</value>
+      <webElementGuid>c6907671-160f-4971-8d63-e35f73b640eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 -1 16 34</value>
+      <webElementGuid>05e77679-c7f8-4bbd-bfa7-36321c524b6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vc-svg-icon</value>
+      <webElementGuid>21de754b-c021-4930-9e4f-c88cdfe37612</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;elBody&quot;)/div[@class=&quot;az-content az-content-dashboard-nine&quot;]/div[@class=&quot;az-content-box&quot;]/div[@class=&quot;az-content-body tab-content&quot;]/div[1]/div[@class=&quot;col-12&quot;]/div[1]/div[@class=&quot;contact-details--card&quot;]/form[1]/div[@class=&quot;row mt-4&quot;]/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;form-group&quot;]/span[1]/div[@class=&quot;vc-popover-content-wrapper is-interactive&quot;]/div[@class=&quot;vc-popover-content direction-bottom vc-container&quot;]/div[@class=&quot;vc-container vc-blue&quot;]/div[@class=&quot;vc-pane-container&quot;]/div[@class=&quot;vc-grid-container grid&quot;]/div[@class=&quot;vc-grid-cell vc-grid-cell-row-1 vc-grid-cell-row--1 vc-grid-cell-col-1 vc-grid-cell-col--1&quot;]/div[@class=&quot;vc-pane&quot;]/div[@class=&quot;vc-header&quot;]/div[@class=&quot;vc-title-layout align-center&quot;]/div[@class=&quot;vc-title-wrapper&quot;]/div[@class=&quot;vc-popover-content-wrapper is-interactive&quot;]/div[@class=&quot;vc-popover-content direction-bottom vc-nav-popover-container&quot;]/div[@class=&quot;vc-nav-container&quot;]/div[@class=&quot;vc-grid-container&quot;]/div[@class=&quot;vc-grid-cell vc-grid-cell-row-1 vc-grid-cell-row--1 vc-grid-cell-col-1 vc-grid-cell-col--3&quot;]/span[@class=&quot;vc-nav-arrow is-left&quot;]/svg[@class=&quot;vc-svg-icon&quot;]</value>
+      <webElementGuid>d030d49a-c755-4e7a-b4f4-e206fc288bed</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='June 2023'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>6fc64e35-4386-4675-988a-ade3b6dea496</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/following::*[name()='svg'][1]</value>
+      <webElementGuid>fc8a0898-553e-495f-8118-437e6a6d2d13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='M'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>0b8a6304-a106-40e6-bfab-66690dee14e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='T'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>3d824785-a387-4953-94b7-849fb545e8e5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_This service is not included in your app</name>
+   <tag></tag>
+   <elementGuidId>20eaa482-f41a-4507-abb0-d9e4757b882a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.iziToast-message.slideIn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='RXJyb3JUaGlzJTIwc2VydmljZSUyMGlzJTIwbm90JTIwaW5jbHVkZWQlMjBpbiUyMHlvdXIlMjBhcHAucmVk']/div/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>26d1a414-b4e0-4c00-9de7-58a22dfe309d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>iziToast-message slideIn</value>
+      <webElementGuid>44ca18ed-8b79-4dac-9a5b-f25dbe662fea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>This service is not included in your app.</value>
+      <webElementGuid>da33e408-4146-4f76-9449-6ba710ecf5b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;RXJyb3JUaGlzJTIwc2VydmljZSUyMGlzJTIwbm90JTIwaW5jbHVkZWQlMjBpbiUyMHlvdXIlMjBhcHAucmVk&quot;)/div[@class=&quot;iziToast-body&quot;]/div[@class=&quot;iziToast-texts&quot;]/p[@class=&quot;iziToast-message slideIn&quot;]</value>
+      <webElementGuid>c93cd634-8d0d-468a-bfd2-bbe2a9e73a4a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='RXJyb3JUaGlzJTIwc2VydmljZSUyMGlzJTIwbm90JTIwaW5jbHVkZWQlMjBpbiUyMHlvdXIlMjBhcHAucmVk']/div/div/p</value>
+      <webElementGuid>8098da39-8249-4d5d-bf5c-59d532053064</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Error'])[1]/following::p[1]</value>
+      <webElementGuid>750795a5-1a05-4cee-a5df-8e01ceec8d83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© 2023 BluSalt'])[1]/following::p[1]</value>
+      <webElementGuid>0288dbbb-8a2c-4e91-b502-c46543272ad1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='This service is not included in your app.']/parent::*</value>
+      <webElementGuid>c8554c6a-9c93-49f2-a78e-a8cd90269370</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/p</value>
+      <webElementGuid>da07a220-fada-492a-8adf-0c51c587320d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'This service is not included in your app.' or . = 'This service is not included in your app.')]</value>
+      <webElementGuid>4fe2ff1c-62c9-4676-a371-59de427a3695</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

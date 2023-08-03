@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_(NIP) Nigerian International Passport</name>
+   <tag></tag>
+   <elementGuidId>8ffa675c-d19d-444c-b653-c9f8380d6d1b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#vs7__option-1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='vs7__option-1']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>66a77a0a-d315-4faa-8efc-434638a223b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>vs7__option-1</value>
+      <webElementGuid>15efda0e-3cf3-4a5a-8d18-626213351bb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>0ce528fe-8b83-49c1-82ab-29b9a6bfb74a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vs__dropdown-option vs__dropdown-option--highlight</value>
+      <webElementGuid>43e99767-d0f0-4bf5-99f1-f793fdc7e5fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>cb9e632b-8ad4-4c5d-8823-7b796fb0e00e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+          (NIP) Nigerian International Passport
+        </value>
+      <webElementGuid>e77dad3b-aef5-4cc1-b45d-1d82b56b7043</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;vs7__option-1&quot;)</value>
+      <webElementGuid>83af1e3d-782c-46f4-9162-52efbcf6584b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//li[@id='vs7__option-1']</value>
+      <webElementGuid>cb7706be-55f5-4d14-98e2-747202d14472</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='vs7__listbox']/li[2]</value>
+      <webElementGuid>d4b2fbaf-8642-4a12-a583-0510b016cdcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(DL) Drivers Licence'])[2]/following::li[1]</value>
+      <webElementGuid>a014187d-2904-41fb-be9e-c30a5c7f2dfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[1]/following::li[2]</value>
+      <webElementGuid>3f9fd1b9-c4ad-4234-8e7c-c99e568d5745</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(NIN) National Identity Number'])[1]/preceding::li[1]</value>
+      <webElementGuid>0b9ade5c-46d9-4a21-8a90-055a40a8440e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(PVC) Permanent Voters Card'])[1]/preceding::li[2]</value>
+      <webElementGuid>94b3e3c8-8c67-419a-9433-daa92dc6f901</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='(NIP) Nigerian International Passport']/parent::*</value>
+      <webElementGuid>aa74c01c-c634-4f2a-a2dd-1ce7188f8d33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/ul/li[2]</value>
+      <webElementGuid>46dd6c76-dbd7-4a7f-b7db-be1d3707e972</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[@id = 'vs7__option-1' and (text() = '
+          (NIP) Nigerian International Passport
+        ' or . = '
+          (NIP) Nigerian International Passport
+        ')]</value>
+      <webElementGuid>daa7336b-ffcb-4164-9706-0db6c960e192</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

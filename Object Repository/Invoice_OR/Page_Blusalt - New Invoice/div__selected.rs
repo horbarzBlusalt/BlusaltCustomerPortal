@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div__selected</name>
+   <tag></tag>
+   <elementGuidId>8a1db31d-2dd9-40a3-8fe1-6bd11e909c79</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='elBody']/div[2]/div[2]/div/div/div[2]/div/div/div[2]/div/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.selected</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7b9e5b06-839d-4d1e-991d-a884109c90fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selected</value>
+      <webElementGuid>730d951a-cb74-4e83-bcca-abee27f91399</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;elBody&quot;)/div[@class=&quot;az-content az-content-dashboard-nine&quot;]/div[2]/div[@class=&quot;p-md-4&quot;]/div[@class=&quot;row justify-content-between create-invoice&quot;]/div[@class=&quot;create_invoice_wrapper&quot;]/div[@class=&quot;create-invoice-form&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6&quot;]/div[1]/div[@class=&quot;form-group&quot;]/div[@class=&quot;custom_select_2&quot;]/div[@class=&quot;selected&quot;]</value>
+      <webElementGuid>ec9b93a0-fbfc-4008-ad12-5be26b486c93</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='elBody']/div[2]/div[2]/div/div/div[2]/div/div/div[2]/div/div/div[2]/div</value>
+      <webElementGuid>267c5d1f-2327-4eb2-8969-d9b137ae4d1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::div[2]</value>
+      <webElementGuid>872a5f49-b4f7-4d01-910c-daaae07ed6ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer'])[1]/following::div[2]</value>
+      <webElementGuid>6dac099c-eac0-4ce1-94e4-e38b8ac4e8f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sade Frank (sadefrank@yopmail.com)'])[1]/preceding::div[3]</value>
+      <webElementGuid>8b161799-137d-4a18-a859-1e1e01a8fbbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Frank Bala (fbala@yopmail.com)'])[1]/preceding::div[4]</value>
+      <webElementGuid>c9d3b60a-a54f-4512-a1d9-bc11b7755917</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/div/div[2]/div/div/div[2]/div</value>
+      <webElementGuid>3dd87a44-106c-43c1-98ad-ac20ccd7e34c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

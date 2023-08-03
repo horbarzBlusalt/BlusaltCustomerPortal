@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_savosehblusalt.net</name>
+   <tag></tag>
+   <elementGuidId>63f0b8d3-4ce2-46aa-815e-b8617aaddc86</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='personal']/div/section/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>section > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>23be7648-b4d4-4f61-a354-5e14722d5efc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>savoseh@blusalt.net </value>
+      <webElementGuid>8c5e8d13-9307-4a18-9037-42048a9fd629</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;personal&quot;)/div[@class=&quot;accordion__body&quot;]/section[1]/span[1]</value>
+      <webElementGuid>b801e864-0728-41fe-ae3a-296b28a87212</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='personal']/div/section/span</value>
+      <webElementGuid>0930ff5c-5979-4239-943d-324b9ba8d487</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Personal Information'])[1]/following::span[1]</value>
+      <webElementGuid>d802fd36-aeca-4980-86d2-9aaba83d6e47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Individual'])[1]/preceding::span[3]</value>
+      <webElementGuid>f02cf0b3-b210-4fbc-be8f-562d5b9a8e3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Advance Information'])[1]/preceding::span[5]</value>
+      <webElementGuid>ce4ad50f-6799-42f5-ae5f-35b5012e7a33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='savoseh@blusalt.net']/parent::*</value>
+      <webElementGuid>0c11ab5e-496d-4eb9-8056-004b1803887f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/span</value>
+      <webElementGuid>2b17a70d-8a22-402d-829d-d743844ad92d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'savoseh@blusalt.net ' or . = 'savoseh@blusalt.net ')]</value>
+      <webElementGuid>451e4895-bc8f-4965-a588-e259e14c7623</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

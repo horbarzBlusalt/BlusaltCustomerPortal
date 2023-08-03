@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Total Cost (NGN)_selected</name>
+   <tag></tag>
+   <elementGuidId>757660f6-da8c-4359-aa4b-6a814854f701</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='elBody']/div[2]/div[2]/div/div/div[2]/div/div/div[11]/div/div/div[2]/table/tbody/tr/td/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td > div > div.form-group > div.custom_select_2 > div.selected</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>477182e3-6c8b-4ab7-9dd2-5c8c2afe2030</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selected</value>
+      <webElementGuid>ce285ed7-223c-4ea9-b8cb-4a722ebe8cc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;elBody&quot;)/div[@class=&quot;az-content az-content-dashboard-nine&quot;]/div[2]/div[@class=&quot;p-md-4&quot;]/div[@class=&quot;row justify-content-between create-invoice&quot;]/div[@class=&quot;create_invoice_wrapper&quot;]/div[@class=&quot;create-invoice-form&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 my-5&quot;]/div[1]/div[@class=&quot;v-table row-pointer items__table no-margin no-hover VueTables VueTables--client&quot;]/div[@class=&quot;table-responsive&quot;]/table[@class=&quot;VueTables__table table table-striped table-bordered table-hover&quot;]/tbody[1]/tr[@class=&quot;VueTables__row&quot;]/td[1]/div[1]/div[@class=&quot;form-group&quot;]/div[@class=&quot;custom_select_2&quot;]/div[@class=&quot;selected&quot;]</value>
+      <webElementGuid>e24c1b5a-7346-44da-bdfc-bc12d6d6a3ef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='elBody']/div[2]/div[2]/div/div/div[2]/div/div/div[11]/div/div/div[2]/table/tbody/tr/td/div/div/div/div</value>
+      <webElementGuid>e8923005-e645-458b-9a1f-e05d3390dab3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Cost (NGN)'])[1]/following::div[4]</value>
+      <webElementGuid>69b5efd8-9c8a-4fd3-951a-7ab221c7965a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quantity'])[1]/following::div[4]</value>
+      <webElementGuid>f07b5650-e2ee-4a9e-ac1c-34831f577463</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yanga Plan'])[1]/preceding::div[2]</value>
+      <webElementGuid>b855d434-cd99-4c48-bf4d-a55a2b28e79d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test'])[1]/preceding::div[3]</value>
+      <webElementGuid>af26a1dc-a18c-4734-9232-4e321682990a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div/div/div/div</value>
+      <webElementGuid>0b3aceb0-9f4d-4149-b996-687b01e96b37</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_BIN Verification_pointer mr-3</name>
+   <tag></tag>
+   <elementGuidId>d8ad5e36-5a84-4d32-a373-5b8f086288d5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='elBody']/div[2]/div[2]/div[2]/section/div/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.pointer.mr-3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>82575877-f321-4526-8076-2e909fb93f2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/assets/img/icons/arrow-left.svg</value>
+      <webElementGuid>73ffbd19-8b02-47b4-b8ae-765ac056c28b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>30</value>
+      <webElementGuid>c7212571-3b5b-4807-9673-c8b910404278</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pointer mr-3</value>
+      <webElementGuid>51772d31-582b-4872-a982-697f00f3907e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;elBody&quot;)/div[@class=&quot;az-content az-content-dashboard-nine&quot;]/div[@class=&quot;az-content-box&quot;]/div[@class=&quot;az-content-body tab-content&quot;]/section[1]/div[@class=&quot;mb-3 border-bottom&quot;]/div[@class=&quot;d-flex align-items-center justify-content-start mb-2&quot;]/img[@class=&quot;pointer mr-3&quot;]</value>
+      <webElementGuid>6e81d724-ae0f-4087-97ef-e2bc01710dc5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='elBody']/div[2]/div[2]/div[2]/section/div/div/img</value>
+      <webElementGuid>30300757-75f9-4f8d-9b4e-aa04b328e4bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div/img</value>
+      <webElementGuid>1bf08c81-ab38-4563-b4d5-af47c85ee140</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/assets/img/icons/arrow-left.svg']</value>
+      <webElementGuid>cf068140-581b-46c6-b01d-6eecd9f7ec24</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

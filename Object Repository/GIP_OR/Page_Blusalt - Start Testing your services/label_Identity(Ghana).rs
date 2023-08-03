@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Identity(Ghana)</name>
+   <tag></tag>
+   <elementGuidId>8f372172-2e5b-42d5-ac8b-572588d337ae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='headingFive']/a/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#headingFive > a > label.az-content-label.az-content-label-sm</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>bb17d0de-bd5b-4f4f-acfd-f082d673a971</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>az-content-label az-content-label-sm</value>
+      <webElementGuid>bc4ac264-fc5c-4404-b9e9-aa01312158fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Identity(Ghana)</value>
+      <webElementGuid>47796e46-eafb-487a-860b-196f331ecb7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headingFive&quot;)/a[1]/label[@class=&quot;az-content-label az-content-label-sm&quot;]</value>
+      <webElementGuid>1525903d-95c4-4eb2-94c9-ea9b6dd672ec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headingFive']/a/label</value>
+      <webElementGuid>c680265b-ed56-4a0b-a9c7-e80673d5e82d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Address Verification'])[1]/following::label[1]</value>
+      <webElementGuid>50ed192c-6036-4991-b291-37f1a9fe81c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Drivers Licence (DL)'])[1]/following::label[1]</value>
+      <webElementGuid>154b63bb-2ff5-4fd3-9215-184577eb4392</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Voters ID Card (GVC)'])[1]/preceding::label[1]</value>
+      <webElementGuid>2a8889df-5379-4075-9db3-2037574ea1ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='International Passport (GIP)'])[1]/preceding::label[1]</value>
+      <webElementGuid>7e2a4848-f85d-4483-96c9-01d3458889d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Identity(Ghana)']/parent::*</value>
+      <webElementGuid>fcce36d7-30eb-40d7-81d4-839c7cff4586</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a/label</value>
+      <webElementGuid>0d398dcf-20de-41bb-aafb-7c638454159f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Identity(Ghana)' or . = 'Identity(Ghana)')]</value>
+      <webElementGuid>97056b1a-ede1-4c02-a1f8-0f9e98d48caa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

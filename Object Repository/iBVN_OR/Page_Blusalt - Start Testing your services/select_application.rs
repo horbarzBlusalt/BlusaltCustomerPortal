@@ -7,11 +7,15 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='vs4__combobox']/div[2]</value>
+         <value>//input[@placeholder='Select an application']</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>div.vs__actions</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '  Loading...' or . = '  Loading...')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>404e5744-636a-4f5e-b85c-c07a7e9b5ef7</webElementGuid>
+      <webElementGuid>6689c7a7-9104-4bae-a012-30e252650392</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>vs__actions</value>
-      <webElementGuid>4855dffc-be0b-4db2-9bb1-ee1062ee35df</webElementGuid>
+      <webElementGuid>4d89dadb-9adf-4266-a4b7-545d2276e7cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +42,7 @@
       <name>text</name>
       <type>Main</type>
       <value>  Loading...</value>
-      <webElementGuid>c4b2e79e-d053-4dd4-bdb8-6580eea3b841</webElementGuid>
+      <webElementGuid>514eaad2-db0b-4344-b826-ed9c76fb2faf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +50,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;vs4__combobox&quot;)/div[@class=&quot;vs__actions&quot;]</value>
-      <webElementGuid>b8fa4da0-0a25-4785-8069-57187db8fda3</webElementGuid>
+      <webElementGuid>b23d15a5-52db-4edb-9ea3-fd425ae46d07</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +58,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='vs4__combobox']/div[2]</value>
-      <webElementGuid>ea0ac714-a2be-4f17-991a-c91826caea44</webElementGuid>
+      <webElementGuid>ab29abd8-c41d-49ae-be96-059aab18d36e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::div[4]</value>
-      <webElementGuid>a4957118-796c-4181-b17c-cb6bb4fead84</webElementGuid>
+      <webElementGuid>c3c7be5a-d63b-41e7-adae-28a62f6f4073</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Application field is required.'])[1]/preceding::div[2]</value>
-      <webElementGuid>1e607b4f-5543-49d4-a87d-dda13749420a</webElementGuid>
+      <webElementGuid>b2e8e256-48b7-446c-87c2-779d7fa30906</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div/div[2]</value>
-      <webElementGuid>fe575d6e-f4a4-4d51-9a61-aefe9d6d3626</webElementGuid>
+      <webElementGuid>8ba82f3c-d43b-4104-a54f-2058da9bfa89</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +90,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = '  Loading...' or . = '  Loading...')]</value>
-      <webElementGuid>2194a558-8898-44ac-813b-16710663b53a</webElementGuid>
+      <webElementGuid>58bb78d4-b6af-4fa3-b780-bd192fae3008</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

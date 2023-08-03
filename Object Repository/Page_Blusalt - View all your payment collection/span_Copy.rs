@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Copy</name>
+   <tag></tag>
+   <elementGuidId>1764e081-b49a-4ce1-8d5f-4ca08ec6686f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='elBody']/div[2]/div[2]/div/div[3]/div[2]/div/div/div/div[2]/table/tbody/tr/td[7]/div/div/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.dropdown-item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f899e02d-013b-463b-b7f6-0ac971039288</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item</value>
+      <webElementGuid>94f5604c-08ac-4579-bb1d-4fb604a6f0af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Copy </value>
+      <webElementGuid>c4443226-5f26-4f86-80f1-85cd7f96ed88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;elBody&quot;)/div[@class=&quot;az-content az-content-dashboard-nine&quot;]/div[2]/div[@class=&quot;p-md-4 p-3&quot;]/div[@class=&quot;pt-3&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;v-table row-pointer VueTables VueTables--server&quot;]/div[@class=&quot;table-responsive&quot;]/table[@class=&quot;VueTables__table table table-striped table-bordered table-hover&quot;]/tbody[1]/tr[@class=&quot;VueTables__row&quot;]/td[7]/div[@class=&quot;mr-3&quot;]/div[@class=&quot;dropdown az-profile-menu&quot;]/div[@class=&quot;dropdown-menu p-0 pt-2 show&quot;]/span[@class=&quot;dropdown-item&quot;]</value>
+      <webElementGuid>492d748c-6882-4e0b-b149-62f91840a1c8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='elBody']/div[2]/div[2]/div/div[3]/div[2]/div/div/div/div[2]/table/tbody/tr/td[7]/div/div/div/span</value>
+      <webElementGuid>27a1a6db-945b-44ef-a067-ee10a51d545d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expired'])[1]/following::span[2]</value>
+      <webElementGuid>31cb8c42-80bb-4df8-9a41-1ad597f0266a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NGN 120.00'])[1]/following::span[3]</value>
+      <webElementGuid>00687488-1e99-4d84-9ca3-9efe20203161</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Boll'])[1]/preceding::span[1]</value>
+      <webElementGuid>10d99506-f355-4e1c-9581-8027d57b2049</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FlNtaRIz9'])[1]/preceding::span[1]</value>
+      <webElementGuid>e99ed97b-0a32-4ac6-9f98-6da11d0fa7c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Copy']/parent::*</value>
+      <webElementGuid>a807d634-7040-4b23-9002-de23f6a9bf95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[7]/div/div/div/span</value>
+      <webElementGuid>bc8698a2-6d67-4ed1-9537-4d28ce983d81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Copy ' or . = ' Copy ')]</value>
+      <webElementGuid>f32a2b4a-9b22-40c5-a93e-7ea22ea95263</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

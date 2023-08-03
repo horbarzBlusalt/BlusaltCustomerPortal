@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Successful</name>
+   <tag></tag>
+   <elementGuidId>a5b4c36c-ff17-428a-88ac-b7dc8ce6c05f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='elBody']/div[2]/div[2]/div/div[3]/div[2]/div/div[2]/div/div[4]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.information > span.text-success</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9e71d2cc-e954-4049-89de-afe570f5517a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-success</value>
+      <webElementGuid>f5bc54c0-62cb-4721-86d6-ea80eabd56ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+            Successful
+          </value>
+      <webElementGuid>553c005f-4630-4a4c-8d38-68bcc75e5e50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;elBody&quot;)/div[@class=&quot;az-content az-content-dashboard-nine&quot;]/div[2]/div[@class=&quot;p-md-4 p-3&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;table-modal-wrapper transaction&quot;]/div[@class=&quot;table-modal&quot;]/div[@class=&quot;p-4 border-top&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;information&quot;]/span[@class=&quot;text-success&quot;]</value>
+      <webElementGuid>770219b0-79e9-4bd4-b4a6-0960bbc55a4e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='elBody']/div[2]/div[2]/div/div[3]/div[2]/div/div[2]/div/div[4]/span</value>
+      <webElementGuid>ae5450ba-1d87-4efc-b7a8-b1c5eefdd4cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Card'])[2]/following::span[1]</value>
+      <webElementGuid>5abd1602-e73e-4cb0-ac26-e837841757de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CARD: TCH-QL_o6nJ8t'])[1]/preceding::span[2]</value>
+      <webElementGuid>c105cccc-e273-4bb5-ade4-f0da04e3d5ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Other Information'])[1]/preceding::span[3]</value>
+      <webElementGuid>4fbe59ca-8647-48f8-9853-edf2077aee60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[4]/span</value>
+      <webElementGuid>70af6743-5673-4c69-97a3-7d65be9191a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '
+            Successful
+          ' or . = '
+            Successful
+          ')]</value>
+      <webElementGuid>c358fec0-4d02-44f7-be94-0c3ba0bc7e4b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -10,11 +10,19 @@
          <value>//li[@id='vs1__option-12']</value>
       </entry>
       <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'vs1__option-11' and (text() = '
+          bluintouchapp
+        ' or . = '
+          bluintouchapp
+        ')]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>#vs1__option-12</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,15 +30,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>986612ac-1207-4088-a9ac-f8cd30b285e0</webElementGuid>
+      <webElementGuid>0cc3a418-6da5-4612-9527-7b404f908678</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>vs1__option-12</value>
-      <webElementGuid>5c3c77a1-a9da-42b0-bf1a-8a0374c442ce</webElementGuid>
+      <value>vs1__option-11</value>
+      <webElementGuid>5da1f8ad-a4d7-406d-9fba-37e4f296b5e5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +46,7 @@
       <name>role</name>
       <type>Main</type>
       <value>option</value>
-      <webElementGuid>ae2be06a-37a6-4044-815b-c1095d2a9861</webElementGuid>
+      <webElementGuid>b08480ca-d792-49dc-9827-ef36bd1a8aa4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>vs__dropdown-option vs__dropdown-option--highlight</value>
-      <webElementGuid>5e9e5a61-7211-4181-986a-3ec158dab3b4</webElementGuid>
+      <webElementGuid>acb0b80c-958d-4159-92f7-d54d0542b924</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +62,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>cd5c3121-66f7-4b13-9d00-d5cb1b1607c3</webElementGuid>
+      <webElementGuid>94b61cab-4ed3-4152-b82d-0b9fc9e93947</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -64,7 +72,7 @@
       <value>
           bluintouchapp
         </value>
-      <webElementGuid>ce923576-fb0c-4c54-91cc-c94149be111c</webElementGuid>
+      <webElementGuid>f6fd568c-d0ff-48d9-a386-c06279250143</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -72,7 +80,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;vs1__option-12&quot;)</value>
-      <webElementGuid>8d782f7b-f5fb-4713-8926-76868e495f3a</webElementGuid>
+      <webElementGuid>8abce965-2e4d-4bec-b71a-05a45cd8facf</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -80,7 +88,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//li[@id='vs1__option-12']</value>
-      <webElementGuid>973650e1-5ac2-419b-9111-ae58e08ae521</webElementGuid>
+      <webElementGuid>9af680e3-6e9e-4694-9b2a-45abf5b7bd7d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -88,7 +96,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ul[@id='vs1__listbox']/li[13]</value>
-      <webElementGuid>b06dbdd4-4bdb-4d58-9507-d864166fc19e</webElementGuid>
+      <webElementGuid>ebf29fa2-7ae7-4e47-8536-13624737ca24</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,7 +104,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='business_verification'])[1]/following::li[1]</value>
-      <webElementGuid>cfa1e013-9e09-4753-a17e-9298adbca197</webElementGuid>
+      <webElementGuid>12c75cf3-c000-4ccb-bf8d-aa2ff39a72ac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -104,7 +112,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='olas-app'])[1]/following::li[2]</value>
-      <webElementGuid>2b9be497-e1c3-4380-be9b-1644768829b3</webElementGuid>
+      <webElementGuid>95de6020-9478-4259-a661-3133c5ae997d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -112,7 +120,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='liveness'])[1]/preceding::li[1]</value>
-      <webElementGuid>22f94604-817e-4868-85df-e3185dc9f5d6</webElementGuid>
+      <webElementGuid>ec1d77e7-7abc-4277-a627-82613c14d75a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -120,7 +128,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='test-sms-config'])[1]/preceding::li[2]</value>
-      <webElementGuid>d398dfc0-7766-4a7c-a036-48dff8977f6d</webElementGuid>
+      <webElementGuid>ceaf0723-0690-4263-a3a3-32ae8b97656c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -128,7 +136,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='bluintouchapp']/parent::*</value>
-      <webElementGuid>775f94ab-f747-4c87-8e4e-d6a5ad89293d</webElementGuid>
+      <webElementGuid>6ee3dc6d-b338-445a-be23-632f8cceb507</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -136,7 +144,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[13]</value>
-      <webElementGuid>539bbeef-2166-469a-b2ef-047c94e48412</webElementGuid>
+      <webElementGuid>0a99498f-9507-41c4-9c5d-7d23c93d614c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -148,6 +156,6 @@
         ' or . = '
           bluintouchapp
         ')]</value>
-      <webElementGuid>cbbddb41-d828-4968-a160-b447ccad28d8</webElementGuid>
+      <webElementGuid>e36bac65-689c-4cff-9e8d-a4638503a399</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>c137f31f-1532-4a62-ad7e-9f6703021f29</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@type='button dropdown-toggle']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img[type=&quot;button dropdown-toggle&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>2e519c5d-061c-4516-b6ba-94d96100d1d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button dropdown-toggle</value>
+      <webElementGuid>f86ca316-2793-4418-b118-ba184df971c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>dropdown</value>
+      <webElementGuid>cd2643ed-3c2b-45bf-8d96-dfde29c824ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/assets/img/icons/ellipsis.svg</value>
+      <webElementGuid>9caf39a2-0ae8-4bd3-89ca-504a1c8dfb8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>30px</value>
+      <webElementGuid>45eb17e7-f7e5-498a-937e-c54bc584e88b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;elBody&quot;)/div[@class=&quot;az-content az-content-dashboard-nine&quot;]/div[2]/div[@class=&quot;p-4&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;v-table row-pointer VueTables VueTables--server&quot;]/div[@class=&quot;table-responsive&quot;]/table[@class=&quot;VueTables__table table table-striped table-bordered table-hover&quot;]/tbody[1]/tr[@class=&quot;VueTables__row&quot;]/td[4]/div[@class=&quot;mr-3&quot;]/div[@class=&quot;dropdown az-profile-menu&quot;]/img[1]</value>
+      <webElementGuid>c32ce257-1f16-4032-9018-f8cb63327298</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//img[@type='button dropdown-toggle']</value>
+      <webElementGuid>9b1d2384-fc14-4282-ab93-40c0c9418792</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='elBody']/div[2]/div[2]/div/div[3]/div/div/div/div[2]/table/tbody/tr/td[4]/div/div/img</value>
+      <webElementGuid>2464dfef-a522-4b07-8c25-201e0ce5a8ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/div/div/img</value>
+      <webElementGuid>3b52ab10-55b0-4622-9d2b-a6f4eaf70ca8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@type = 'button dropdown-toggle' and @src = '/assets/img/icons/ellipsis.svg']</value>
+      <webElementGuid>869605ee-3eb9-408e-b450-7be0003dcffa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

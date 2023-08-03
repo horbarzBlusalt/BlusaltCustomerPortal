@@ -10,11 +10,15 @@
          <value>//div[@id='RXJyb3JBbiUyMFVuZXhwZWN0ZWQlMjBFcnJvciUyME9jY3VyZWRyZWQ']/div/div/p</value>
       </entry>
       <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'No result Found For this BVN' or . = 'No result Found For this BVN')]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>p.iziToast-message.slideIn</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>c3117f03-2844-4f51-b149-1c445800dd19</webElementGuid>
+      <webElementGuid>e6865634-26f2-48fc-b681-6e647c1fcf7c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,15 +34,15 @@
       <name>class</name>
       <type>Main</type>
       <value>iziToast-message slideIn</value>
-      <webElementGuid>5258c428-5513-4b39-a555-e79248d7e822</webElementGuid>
+      <webElementGuid>553e98c9-53c4-4150-9c2d-3bea4b709f46</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>An Unexpected Error Occured</value>
-      <webElementGuid>1f3d2638-3b46-4b0e-831d-6c76fde6b363</webElementGuid>
+      <value>No result Found For this BVN</value>
+      <webElementGuid>6a6303b7-6dc5-42e2-a59a-ff7e5a048473</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +50,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;RXJyb3JBbiUyMFVuZXhwZWN0ZWQlMjBFcnJvciUyME9jY3VyZWRyZWQ&quot;)/div[@class=&quot;iziToast-body&quot;]/div[@class=&quot;iziToast-texts&quot;]/p[@class=&quot;iziToast-message slideIn&quot;]</value>
-      <webElementGuid>63c38196-c00e-42d9-bb58-6ebe5d1161c8</webElementGuid>
+      <webElementGuid>9a0e11fc-15e4-443e-afb4-3473f703cd51</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +58,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='RXJyb3JBbiUyMFVuZXhwZWN0ZWQlMjBFcnJvciUyME9jY3VyZWRyZWQ']/div/div/p</value>
-      <webElementGuid>b1bbaf62-9b62-44b0-87de-4fae7fd32c65</webElementGuid>
+      <webElementGuid>2dfb6da3-6d1e-40c3-a5d7-c562c3506ca8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Error'])[1]/following::p[1]</value>
-      <webElementGuid>6b0c257f-92e9-47be-aedf-4af6e1a5c816</webElementGuid>
+      <webElementGuid>f58647d9-20cf-45f2-832a-5e70a18139c0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::p[1]</value>
-      <webElementGuid>8b3b06c0-001e-4d63-9e75-0efdc3cf7ab8</webElementGuid>
+      <webElementGuid>ee276957-246e-459b-ae2a-c0e8f1ffc2fe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='An Unexpected Error Occured']/parent::*</value>
-      <webElementGuid>b79b2687-65eb-4102-b3dc-f43d52535437</webElementGuid>
+      <webElementGuid>628f161f-4f19-4ad8-94c2-f0eccee30340</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div/div/div/div/p</value>
-      <webElementGuid>5ef990d8-3d0f-4701-aa71-26ccda5368a9</webElementGuid>
+      <webElementGuid>d44e252d-978a-4d72-936c-2f96b158a7bd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +98,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//p[(text() = 'An Unexpected Error Occured' or . = 'An Unexpected Error Occured')]</value>
-      <webElementGuid>cf271fad-0bfa-4387-a883-a91cc3951c10</webElementGuid>
+      <webElementGuid>07128b1e-33b6-48b9-87b8-f9124069500c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

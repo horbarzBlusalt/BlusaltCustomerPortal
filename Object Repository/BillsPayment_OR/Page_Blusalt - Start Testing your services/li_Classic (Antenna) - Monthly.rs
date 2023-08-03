@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Classic (Antenna) - Monthly</name>
+   <tag></tag>
+   <elementGuidId>19ef0ac8-1bea-4b02-b9fa-19aea5fc3d69</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='vs27__option-1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#vs27__option-1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>20749969-5728-4c58-b422-c129d5fe4aac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>vs27__option-1</value>
+      <webElementGuid>a069129f-f729-4a4d-ba6c-7c1430998d76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>96fb17fa-c4d7-4d97-94cb-03cfdd71c719</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vs__dropdown-option vs__dropdown-option--highlight</value>
+      <webElementGuid>5a817a84-8b6d-4c92-bc5b-fbd7f578ab9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>2da9c7ba-6944-426b-b265-a701c4ee3347</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+          Classic (Antenna) - Monthly
+        </value>
+      <webElementGuid>62fcebc8-7703-4a62-8bae-cde3ea18213c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;vs27__option-1&quot;)</value>
+      <webElementGuid>eef05beb-4d10-48b6-a05b-3264fe8966b4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//li[@id='vs27__option-1']</value>
+      <webElementGuid>a571d039-0eb3-4afd-9c4d-3b642d0a01db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='vs27__listbox']/li[2]</value>
+      <webElementGuid>e1ecfb61-cbbe-499f-8b18-61da4ee8da5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Startimes All Inclusive (Dish) - Monthly'])[1]/following::li[1]</value>
+      <webElementGuid>c6d9ab2b-ae49-4737-8eb4-6929ffb37e8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[4]/following::li[2]</value>
+      <webElementGuid>a98f8075-06fc-40c1-a107-2d9550b0ce28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Smart (Dish) - Weekly'])[1]/preceding::li[1]</value>
+      <webElementGuid>0a14e523-0ed9-473f-b155-b18e5e58b46c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Super (Dish) - Weekly'])[1]/preceding::li[2]</value>
+      <webElementGuid>df1f39a2-1cff-4751-be29-06dc67ad43bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Classic (Antenna) - Monthly']/parent::*</value>
+      <webElementGuid>e539a7be-65e7-4df8-83c2-8f4c2dd2de95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/ul/li[2]</value>
+      <webElementGuid>30002df7-1785-494f-996a-6822dfb72150</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[@id = 'vs27__option-1' and (text() = '
+          Classic (Antenna) - Monthly
+        ' or . = '
+          Classic (Antenna) - Monthly
+        ')]</value>
+      <webElementGuid>d6ae7125-4d47-4425-94e1-0f582cd45e09</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

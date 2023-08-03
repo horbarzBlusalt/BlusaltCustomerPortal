@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_NIP Verification Completed Successfully</name>
+   <tag></tag>
+   <elementGuidId>9da4a81f-403c-4592-91e0-01af13ebe919</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.iziToast-message.slideIn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='T0tOSVAlMjBWZXJpZmljYXRpb24lMjBDb21wbGV0ZWQlMjBTdWNjZXNzZnVsbHlncmVlbg']/div/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>a59ad461-2e1b-475f-8b8c-a8d625ca207d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>iziToast-message slideIn</value>
+      <webElementGuid>80957802-23e6-4fd8-bde4-0d34a8e31666</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>NIP Verification Completed Successfully</value>
+      <webElementGuid>fd822808-53b6-413d-8e43-b57cf8d07f14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;T0tOSVAlMjBWZXJpZmljYXRpb24lMjBDb21wbGV0ZWQlMjBTdWNjZXNzZnVsbHlncmVlbg&quot;)/div[@class=&quot;iziToast-body&quot;]/div[@class=&quot;iziToast-texts&quot;]/p[@class=&quot;iziToast-message slideIn&quot;]</value>
+      <webElementGuid>faafd564-2d54-4fa0-b9fe-66a9014500ea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='T0tOSVAlMjBWZXJpZmljYXRpb24lMjBDb21wbGV0ZWQlMjBTdWNjZXNzZnVsbHlncmVlbg']/div/div/p</value>
+      <webElementGuid>cb89d889-3785-4482-b05b-9e76d16ef976</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[1]/following::p[1]</value>
+      <webElementGuid>eac9b8ea-d70c-4729-894a-cca2ec0db40b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© 2023 BluSalt'])[1]/following::p[1]</value>
+      <webElementGuid>14f1661e-47b5-4985-af24-1e1b097c34c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='NIP Verification Completed Successfully']/parent::*</value>
+      <webElementGuid>cd52f124-4904-42dd-bff5-6386e3105bd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/p</value>
+      <webElementGuid>6a34ecbb-43e1-43fd-8338-51194f64f022</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'NIP Verification Completed Successfully' or . = 'NIP Verification Completed Successfully')]</value>
+      <webElementGuid>3193fab9-f08d-47da-888e-780bbbab101a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

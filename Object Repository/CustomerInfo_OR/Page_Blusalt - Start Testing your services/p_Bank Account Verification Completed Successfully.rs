@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Bank Account Verification Completed Successfully</name>
+   <tag></tag>
+   <elementGuidId>99f5731c-981d-4588-b6af-f463be9d74d2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='T0tCYW5rJTIwQWNjb3VudCUyMFZlcmlmaWNhdGlvbiUyMENvbXBsZXRlZCUyMFN1Y2Nlc3NmdWxseWdyZWVu']/div/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.iziToast-message.slideIn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>34ccf6db-a2ec-43c7-851e-8903190585ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>iziToast-message slideIn</value>
+      <webElementGuid>dfab20ac-38fb-4ecd-a881-f5e846d02589</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bank Account Verification Completed Successfully</value>
+      <webElementGuid>759051de-ff78-4dbe-a313-02ac7284c7df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;T0tCYW5rJTIwQWNjb3VudCUyMFZlcmlmaWNhdGlvbiUyMENvbXBsZXRlZCUyMFN1Y2Nlc3NmdWxseWdyZWVu&quot;)/div[@class=&quot;iziToast-body&quot;]/div[@class=&quot;iziToast-texts&quot;]/p[@class=&quot;iziToast-message slideIn&quot;]</value>
+      <webElementGuid>dfcecac3-b4e6-4898-8c41-8083dbd89251</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='T0tCYW5rJTIwQWNjb3VudCUyMFZlcmlmaWNhdGlvbiUyMENvbXBsZXRlZCUyMFN1Y2Nlc3NmdWxseWdyZWVu']/div/div/p</value>
+      <webElementGuid>baaa09ca-5119-412a-b98a-574422b23041</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[1]/following::p[1]</value>
+      <webElementGuid>233451bd-3983-4c1f-b38f-3cf05be620d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© 2023 BluSalt'])[1]/following::p[1]</value>
+      <webElementGuid>aa0b3c7e-484d-47a2-83f4-11d4bba89082</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Bank Account Verification Completed Successfully']/parent::*</value>
+      <webElementGuid>1c49d06d-e810-4b52-a90a-47fd7dfa3f47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/p</value>
+      <webElementGuid>bab3fa59-42df-47a9-890e-43128902a64a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Bank Account Verification Completed Successfully' or . = 'Bank Account Verification Completed Successfully')]</value>
+      <webElementGuid>39e056e7-f260-418b-bfe2-cbe2f5c8ce53</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

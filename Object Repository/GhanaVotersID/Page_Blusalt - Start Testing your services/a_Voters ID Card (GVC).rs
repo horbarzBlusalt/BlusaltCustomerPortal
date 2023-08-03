@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Voters ID Card (GVC)</name>
+   <tag></tag>
+   <elementGuidId>8c1cd4b2-e729-4985-86e0-4e820a7a19c6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='collapseFive']/nav/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#collapseFive > nav.nav.az-nav-column.mg-b-20 > a.nav-link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3708457c-2103-4acb-b7d5-a85a4028459c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>42415195-c96b-4ecd-a2bd-d4d4dda6e612</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link</value>
+      <webElementGuid>63d29ec7-3c01-43a8-90ff-9ab764d0c1c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Voters ID Card (GVC)</value>
+      <webElementGuid>6d49d98b-1193-4f31-aa0d-1ce12eec91f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;collapseFive&quot;)/nav[@class=&quot;nav az-nav-column mg-b-20&quot;]/a[@class=&quot;nav-link&quot;]</value>
+      <webElementGuid>4d7c3f4d-aee1-41b8-ba99-836dca2bed50</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='collapseFive']/nav/a</value>
+      <webElementGuid>97532487-87e1-4f0e-a4da-3edac8591f6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Voters ID Card (GVC)')]</value>
+      <webElementGuid>fc4bfd28-bfc9-478c-b5cc-cfed1c42fbc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Identity(Ghana)'])[1]/following::a[1]</value>
+      <webElementGuid>a72e3231-e61b-4ce4-b42b-c8914170e1f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Address Verification'])[1]/following::a[2]</value>
+      <webElementGuid>1cf66dd9-9bc9-405e-8959-36ce51f565fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='International Passport (GIP)'])[1]/preceding::a[1]</value>
+      <webElementGuid>8ff7ecb4-0d5c-4b6d-8603-b68fab279aab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Social Security Number (GSSNIT)'])[1]/preceding::a[2]</value>
+      <webElementGuid>ef58edb7-e150-4777-b2ba-657c5f065446</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Voters ID Card (GVC)']/parent::*</value>
+      <webElementGuid>c90b4ce2-17ff-484b-861d-69a7ad1e613e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '')])[59]</value>
+      <webElementGuid>995c6e4e-ec39-452c-97ae-a1bdeebacbca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/nav/a</value>
+      <webElementGuid>b81b44bd-bf40-4e1c-8d83-a1e6f6e43634</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Voters ID Card (GVC)' or . = 'Voters ID Card (GVC)')]</value>
+      <webElementGuid>1b3d42c8-6ec2-4d41-9c08-8a8764819aaa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

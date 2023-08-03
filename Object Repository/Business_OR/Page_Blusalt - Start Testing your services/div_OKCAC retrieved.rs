@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_OKCAC retrieved</name>
+   <tag></tag>
+   <elementGuidId>2aa9b24c-db43-4c7e-a663-83e33cb423ca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='T0tDQUMlMjByZXRyaWV2ZWRncmVlbg']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.iziToast-texts</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(contains(text(), 'CAC retrieved') or contains(., 'CAC retrieved'))]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a59a52e8-e356-4173-80db-7694a524c989</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>iziToast-texts</value>
+      <webElementGuid>73fa7bd1-c736-440a-b9d7-3d3a7ee6042b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CAC retrieved</value>
+      <webElementGuid>8f5425d7-40a6-463e-8034-8d9cdb989bb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;T0tDQUMlMjByZXRyaWV2ZWRncmVlbg&quot;)/div[@class=&quot;iziToast-body&quot;]/div[@class=&quot;iziToast-texts&quot;]</value>
+      <webElementGuid>ba26fc41-907e-4f5d-b12b-939f2ab20ca4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='T0tDQUMlMjByZXRyaWV2ZWRncmVlbg']/div/div</value>
+      <webElementGuid>e3efcb7b-2f06-4105-84f1-f7c50b01c9b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© 2023 BluSalt'])[1]/following::div[8]</value>
+      <webElementGuid>c2694898-d683-4364-b6a2-9be000c9dfbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/following::div[10]</value>
+      <webElementGuid>5775dfca-5efc-4c5b-b490-501d154c9b9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div</value>
+      <webElementGuid>af47d24b-4a20-4186-b55d-7b744ed239f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'OKCAC retrieved' or . = 'OKCAC retrieved')]</value>
+      <webElementGuid>2d098c49-ca0c-4069-b137-f095c9072bc7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

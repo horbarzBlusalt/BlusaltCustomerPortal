@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>strong_Uganda</name>
+   <tag></tag>
+   <elementGuidId>76eb86c3-81ea-4e2c-9112-34aeec1da81b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='elBody']/div[2]/div[2]/div[2]/div/div/div/div[2]/form/div[2]/div/div/div[2]/div/div/ul/li[227]/strong</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.vti__dropdown-item.highlighted > strong</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+      <webElementGuid>aa0b0df6-9b27-48c3-ab0e-cb34dc0f2fe2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Uganda</value>
+      <webElementGuid>92ef584d-c1ca-4ba6-ab2b-354190289af7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;elBody&quot;)/div[@class=&quot;az-content az-content-dashboard-nine&quot;]/div[@class=&quot;az-content-box&quot;]/div[@class=&quot;az-content-body tab-content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/div[1]/div[@class=&quot;contact-details--card&quot;]/form[1]/div[@class=&quot;row mt-4&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;input-wrapper&quot;]/div[@class=&quot;form-control w-100 input-bordered p-0 vue-tel-input&quot;]/div[@class=&quot;vti__dropdown open&quot;]/ul[@class=&quot;vti__dropdown-list below&quot;]/li[@class=&quot;vti__dropdown-item highlighted&quot;]/strong[1]</value>
+      <webElementGuid>95e6487a-61d0-402e-a3c8-6c66b209de0c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='elBody']/div[2]/div[2]/div[2]/div/div/div/div[2]/form/div[2]/div/div/div[2]/div/div/ul/li[227]/strong</value>
+      <webElementGuid>f818fb58-d947-440c-a0f3-40eff9cb8162</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='U.S. Virgin Islands'])[1]/following::strong[1]</value>
+      <webElementGuid>f1fcd50b-268f-43db-a238-170c7a4a48c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tuvalu'])[1]/following::strong[2]</value>
+      <webElementGuid>df8d1c6a-f027-46eb-8045-5cd610511d48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ukraine (Україна)'])[1]/preceding::strong[1]</value>
+      <webElementGuid>f2aa0e0c-f2ef-4c86-9a96-d170f68474fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='United Arab Emirates (‫الإمارات العربية المتحدة‬‎)'])[1]/preceding::strong[2]</value>
+      <webElementGuid>137991c5-a294-448d-a739-9edd3b602fb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Uganda']/parent::*</value>
+      <webElementGuid>902894c8-a374-45b1-af0d-0def2eb33d3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[227]/strong</value>
+      <webElementGuid>28197eff-20d0-4a1e-936a-edeae087f667</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//strong[(text() = 'Uganda' or . = 'Uganda')]</value>
+      <webElementGuid>fc14b4a8-64fd-4ba4-915a-bed06e45c955</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

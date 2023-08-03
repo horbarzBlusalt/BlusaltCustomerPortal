@@ -6,12 +6,12 @@
    <elementGuidId>ed28531d-5589-45c6-850f-3f33f26df09f</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[5]/following::*[name()='svg'][2]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#vs5__combobox > div.vs__actions > svg.vs__open-indicator</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@placeholder=&quot;Select an API version&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>svg</value>
-      <webElementGuid>e03d56dd-a46a-4c8f-ba01-add877ac4de6</webElementGuid>
+      <webElementGuid>55bccfb2-c482-457c-8036-efc80d8ed91b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>xmlns</name>
       <type>Main</type>
       <value>http://www.w3.org/2000/svg</value>
-      <webElementGuid>7ce168de-a57f-46ed-a815-51674daafbe1</webElementGuid>
+      <webElementGuid>6a2a1ef9-29ef-40c4-a4c3-8b29175989d3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>width</name>
       <type>Main</type>
       <value>14</value>
-      <webElementGuid>d9178fe0-588c-4511-8a22-4eef386562d2</webElementGuid>
+      <webElementGuid>8c4827db-ca75-4f6e-901a-956bf00df38f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>height</name>
       <type>Main</type>
       <value>10</value>
-      <webElementGuid>85765542-9cc0-4b7a-acd4-8bc0356152b8</webElementGuid>
+      <webElementGuid>885dcb25-15df-4838-a84f-e9ecd44cad3c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>role</name>
       <type>Main</type>
       <value>presentation</value>
-      <webElementGuid>4f78834a-4371-4365-a100-1e08976c3cfb</webElementGuid>
+      <webElementGuid>0f0ca952-860a-48eb-b10b-7f514f6a8a70</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>class</name>
       <type>Main</type>
       <value>vs__open-indicator</value>
-      <webElementGuid>d913e4cc-6e9b-43c8-9d1a-d66ea7455a17</webElementGuid>
+      <webElementGuid>ea984089-cba0-4be8-af4b-611ffb858215</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;vs5__combobox&quot;)/div[@class=&quot;vs__actions&quot;]/svg[@class=&quot;vs__open-indicator&quot;]</value>
-      <webElementGuid>00752a3f-efeb-4cfe-8994-52dfb1498789</webElementGuid>
+      <webElementGuid>76236287-0ece-4f03-984e-49067d634453</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[5]/following::*[name()='svg'][2]</value>
-      <webElementGuid>a9e738af-6413-42df-bd71-fc5d338ea696</webElementGuid>
+      <webElementGuid>6ce1dc5e-36f9-4efe-8c17-6e76eb777167</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[2]/preceding::*[name()='svg'][1]</value>
-      <webElementGuid>772b5546-dc5b-4e1b-ba60-cf6f552cd8f8</webElementGuid>
+      <webElementGuid>04997499-33c0-4b45-a516-54c6b97b32f8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='v1'])[1]/preceding::*[name()='svg'][1]</value>
-      <webElementGuid>ddc34890-7f20-4064-aebf-dbcf4ca1b612</webElementGuid>
+      <webElementGuid>7ce949a9-02ae-43e8-8d11-c4a62088eeed</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

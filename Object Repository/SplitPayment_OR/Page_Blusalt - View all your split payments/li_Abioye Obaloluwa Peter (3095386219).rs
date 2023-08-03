@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Abioye Obaloluwa Peter (3095386219)</name>
+   <tag></tag>
+   <elementGuidId>198d58f3-718d-4344-bfba-3624871217a6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='vs3__option-4']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#vs3__option-4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>3e91d011-7593-4581-8593-4d3502d41dad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>vs3__option-4</value>
+      <webElementGuid>7302aaa8-96fb-4a27-a750-4092acd7b440</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>6def4c01-929c-4c7d-a2ce-f35b32966342</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vs__dropdown-option vs__dropdown-option--highlight</value>
+      <webElementGuid>159f0ab0-3bbc-4e09-8f90-0e51aed6bd8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>4cc19e53-99a1-4348-84ff-e74d50e096d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+							Abioye Obaloluwa Peter (3095386219)
+						</value>
+      <webElementGuid>a62decc2-ad43-4119-87f1-c7bc4ca813f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;vs3__option-4&quot;)</value>
+      <webElementGuid>2754d60e-7b34-4b05-af22-c1346a48f07b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//li[@id='vs3__option-4']</value>
+      <webElementGuid>6fac1ba1-d750-4a53-a11a-312bf9a52e55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='vs3__listbox']/li[5]</value>
+      <webElementGuid>a1cf336c-7608-4328-afd4-6fe7e912e340</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Onotue Precious Momoh (0702235076)'])[1]/following::li[1]</value>
+      <webElementGuid>7fee5069-b2cc-4465-8760-5b379e1a834c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mogaji Funmilayo Adebimpe (1000000301)'])[1]/following::li[2]</value>
+      <webElementGuid>ded514e1-b85c-49c6-aeaa-acd87cc7b052</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ademola-adenusi Adeyemi Olawumi (2013843218)'])[1]/preceding::li[1]</value>
+      <webElementGuid>1220f00a-2c6f-417d-9878-3c20b2104492</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='John Doe (1019744698)'])[1]/preceding::li[2]</value>
+      <webElementGuid>73369d69-4372-43be-b446-82dbfb256793</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Abioye Obaloluwa Peter (3095386219)']/parent::*</value>
+      <webElementGuid>e1fc0db5-a247-4bff-b7a2-84a8acdcdd5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/ul/li[5]</value>
+      <webElementGuid>c6034e5a-6e09-438a-b173-0b0cdd6e513e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[@id = 'vs3__option-4' and (text() = '
+							Abioye Obaloluwa Peter (3095386219)
+						' or . = '
+							Abioye Obaloluwa Peter (3095386219)
+						')]</value>
+      <webElementGuid>3d1de277-14ac-4772-94be-8407d52107bb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_issued date must be greater than now</name>
+   <tag></tag>
+   <elementGuidId>7a601f3c-9123-4b34-abed-2475abdca258</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='RXJyb3IlMjBpc3N1ZWQlMjBkYXRlJTIwbXVzdCUyMGJlJTIwZ3JlYXRlciUyMHRoYW4lMjBub3clMjByZWQ']/div/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.iziToast-message.slideIn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>209ce4bd-9339-4cce-8eed-ac1bbb5c7e31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>iziToast-message slideIn</value>
+      <webElementGuid>b4852aa7-8b66-4ea9-bea0-0b6d9c125d87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> issued date must be greater than now </value>
+      <webElementGuid>43fe88da-21ed-433b-b661-6e82e8a215ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;RXJyb3IlMjBpc3N1ZWQlMjBkYXRlJTIwbXVzdCUyMGJlJTIwZ3JlYXRlciUyMHRoYW4lMjBub3clMjByZWQ&quot;)/div[@class=&quot;iziToast-body&quot;]/div[@class=&quot;iziToast-texts&quot;]/p[@class=&quot;iziToast-message slideIn&quot;]</value>
+      <webElementGuid>3bb1d071-d077-43da-9238-c5906e3d6645</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='RXJyb3IlMjBpc3N1ZWQlMjBkYXRlJTIwbXVzdCUyMGJlJTIwZ3JlYXRlciUyMHRoYW4lMjBub3clMjByZWQ']/div/div/p</value>
+      <webElementGuid>28f6f52f-5ca1-4de2-8c4e-817c71a24ff4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Error'])[1]/following::p[1]</value>
+      <webElementGuid>496d1a1e-af35-4a16-bee3-08e95b1a0c08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© 2023 BluSalt'])[1]/following::p[1]</value>
+      <webElementGuid>74b6b057-8c81-47ff-8a76-8a57af6c8fa7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='issued date must be greater than now']/parent::*</value>
+      <webElementGuid>7ae23c52-ed7a-46cb-a4a1-14a6d44257ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/p</value>
+      <webElementGuid>207289b5-c9e0-4da7-a27f-6f6bed618d14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = ' issued date must be greater than now ' or . = ' issued date must be greater than now ')]</value>
+      <webElementGuid>ef67b019-038d-48fc-9184-296c53a011c5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

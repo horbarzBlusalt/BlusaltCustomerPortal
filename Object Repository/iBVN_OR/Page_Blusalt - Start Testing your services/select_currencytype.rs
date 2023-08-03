@@ -6,12 +6,16 @@
    <elementGuidId>fd21adc6-9b47-4ef6-b043-fb6627d4a045</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='vs5__combobox']/div[2]</value>
+         <key>BASIC</key>
+         <value>//*[(text() = '  Loading...' or . = '  Loading...')]</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>#vs5__combobox > div.vs__actions</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@placeholder=&quot;Select an Currency Type&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>17f2ab77-2035-4d46-93e5-705595a55c8a</webElementGuid>
+      <webElementGuid>c85cc985-0509-4737-a2f3-00e536f1d099</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>vs__actions</value>
-      <webElementGuid>f65d299d-4344-432e-848c-18d4fda1e145</webElementGuid>
+      <webElementGuid>95778a8a-6192-4b91-b07e-319ad79501f4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +42,7 @@
       <name>text</name>
       <type>Main</type>
       <value>  Loading...</value>
-      <webElementGuid>16d3740c-d2be-4bea-b2d4-837b1e2005e6</webElementGuid>
+      <webElementGuid>d725d2ef-7f37-4a77-be6d-a236d6a8962a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +50,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;vs5__combobox&quot;)/div[@class=&quot;vs__actions&quot;]</value>
-      <webElementGuid>829b21bb-4d5f-43d0-97e5-6e7c912e1560</webElementGuid>
+      <webElementGuid>754f302e-e967-463d-9509-9a6b81828dab</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +58,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='vs5__combobox']/div[2]</value>
-      <webElementGuid>3963dcea-9ad7-474f-a0a4-0859d8b3cffb</webElementGuid>
+      <webElementGuid>25db938f-36db-4f4e-a16c-aa43ed0a6b7e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Currency Type'])[1]/following::div[4]</value>
-      <webElementGuid>435be5b8-5288-4e77-aedf-7fda01f40f96</webElementGuid>
+      <webElementGuid>c3441588-fadb-43b8-98de-57f7d8f152c6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Application field is required.'])[1]/following::div[5]</value>
-      <webElementGuid>55b45663-6c90-494f-9c5c-429cd8fee5d6</webElementGuid>
+      <webElementGuid>d7280ece-2438-49cd-85c4-d8105910f9c2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Verify BVN'])[1]/preceding::div[3]</value>
-      <webElementGuid>a19ab5db-cec3-4d7d-b862-0f7d825993de</webElementGuid>
+      <webElementGuid>7ec01183-c848-438a-b0f0-025d7d5fb9a4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div/div/div[2]</value>
-      <webElementGuid>85635e4f-42bf-4179-9346-03bb09b8c757</webElementGuid>
+      <webElementGuid>dd8e749f-d365-4331-ad5d-924753d1a8f0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +98,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = '  Loading...' or . = '  Loading...')]</value>
-      <webElementGuid>2eab5ed0-b609-436c-849c-378830b9f363</webElementGuid>
+      <webElementGuid>199b3ab1-2a86-4183-90bb-4804fed1fe38</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Card</name>
+   <tag></tag>
+   <elementGuidId>f7a7ee8b-c195-46a0-9e7d-1cbba760c2f1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/section/div/div/div/div[2]/div/div/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ff0f269e-7223-4568-b2e6-520ed2946f80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card__method </value>
+      <webElementGuid>b431f209-a34f-46df-af0f-7db8e61474a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Card </value>
+      <webElementGuid>f745c78d-6873-4139-b771-8e157b59289a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/section[@class=&quot;sc-gsnTZi cKWxtb checkout&quot;]/div[@class=&quot;checkout__container&quot;]/div[@class=&quot;checkout__main&quot;]/div[@class=&quot;checkout__content&quot;]/div[@class=&quot;p-5&quot;]/div[@class=&quot;row checkout__methods__select&quot;]/div[@class=&quot;col-11&quot;]/div[@class=&quot;row me-1&quot;]/div[@class=&quot;col-6&quot;]/div[@class=&quot;card__method&quot;]</value>
+      <webElementGuid>b72a8013-97ff-4d88-be0b-2ad76092656b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/AccountWallet_OR/Page_Blusalt - Account Wallet/iframe_Dashboard_frame</value>
+      <webElementGuid>8a4b293b-4e0e-40d5-ba92-20465b35fe5e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/section/div/div/div/div[2]/div/div/div/div[2]/div</value>
+      <webElementGuid>2b070e81-7fbb-47a3-b72e-c3f33df7ae83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bank Transfer'])[1]/following::div[2]</value>
+      <webElementGuid>2912e013-e875-4186-a518-e37e45e66bd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test@blusalt.net'])[1]/following::div[9]</value>
+      <webElementGuid>2711bfd5-5ff5-4f37-b9e8-e603b40e6fa9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Card']/parent::*</value>
+      <webElementGuid>27b88e98-9242-47a2-afee-81dd2785324f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div</value>
+      <webElementGuid>9f9b2622-2775-4373-ba81-ce975bb78d95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Card ' or . = 'Card ')]</value>
+      <webElementGuid>2d756824-1714-4471-b7d4-ef6d642873c2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
