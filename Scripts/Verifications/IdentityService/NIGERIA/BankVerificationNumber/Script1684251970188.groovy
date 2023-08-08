@@ -37,17 +37,17 @@ WebUI.setText(findTestObject('Object Repository/Page_Blusalt - Start Testing you
 
 WebUI.setText(findTestObject('Object Repository/Page_Blusalt - Start Testing your services/input__vti__input'), '08175885645')
 
-WebUI.click(findTestObject('Object Repository/Page_Blusalt - Start Testing your services/div__vs__selected-options'))
+WebUI.click(findTestObject('Object Repository/Page_Blusalt - Start Testing your services/selected-app-options'))
 
-WebUI.click(findTestObject('Object Repository/Page_Blusalt - Start Testing your services/li_bluintouchapp'))
+WebUI.click(GlobalVariable.select_application_dropdown_s1)
 
-WebUI.click(findTestObject('Object Repository/Page_Blusalt - Start Testing your services/div__vs__selected-options_1'))
+WebUI.click(findTestObject('Object Repository/Page_Blusalt - Start Testing your services/selected-version-options'))
 
-WebUI.click(findTestObject('Object Repository/Page_Blusalt - Start Testing your services/li_v2'))
+WebUI.click(GlobalVariable.version_number)
 
 WebUI.click(findTestObject('Page_Blusalt - Start Testing your services/select_currencyType'))
 
-WebUI.click(findTestObject('Object Repository/Page_Blusalt - Start Testing your services/li_NGN'))
+WebUI.click(GlobalVariable.currency)
 
 WebUI.click(findTestObject('Object Repository/Page_Blusalt - Start Testing your services/button_Verify BVN'))
 

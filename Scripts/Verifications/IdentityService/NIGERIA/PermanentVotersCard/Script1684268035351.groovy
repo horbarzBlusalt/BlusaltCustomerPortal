@@ -36,15 +36,15 @@ WebUI.setText(findTestObject('Object Repository/PVC_OR/Page_Blusalt - Start Test
 
 WebUI.click(findTestObject('PVC_OR/Page_Blusalt - Start Testing your services/vs__selected-options'))
 
-WebUI.click(findTestObject('Object Repository/PVC_OR/Page_Blusalt - Start Testing your services/li_bluintouchapp'))
+WebUI.click(GlobalVariable.select_application_dropdown_s1)
 
 WebUI.click(findTestObject('Object Repository/PVC_OR/Page_Blusalt - Start Testing your services/svg__vs__open-indicator'))
 
-WebUI.click(findTestObject('Object Repository/PVC_OR/Page_Blusalt - Start Testing your services/li_v2'))
+WebUI.click(GlobalVariable.version_number)
 
 WebUI.click(findTestObject('PVC_OR/Page_Blusalt - Start Testing your services/div_Select Currency'))
 
-WebUI.click(findTestObject('Object Repository/PVC_OR/Page_Blusalt - Start Testing your services/li_NGN'))
+WebUI.click(GlobalVariable.currency)
 
 WebUI.setText(findTestObject('Object Repository/PVC_OR/Page_Blusalt - Start Testing your services/input__vti__input'), '08175885645')
 

@@ -4,4 +4,39 @@
    <name>default</name>
    <tag></tag>
    <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://staging.blusalt.net/login'</initValue>
+      <name>staging_url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://app.blusalt.net/login'</initValue>
+      <name>prod_url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://dev.blusalt.net/login'</initValue>
+      <name>dev_url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestObject('NIP_OR/Page_Blusalt - Start Testing your services/li_bluintouchapp')</initValue>
+      <name>select_application_dropdown_s1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestObject('Address_OR/Page_Blusalt - Start Testing your services/li_identity-test')</initValue>
+      <name>select_application_dropdown_s2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestObject('Page_Blusalt - Start Testing your services/li_v2')</initValue>
+      <name>version_number</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestObject('Page_Blusalt - Start Testing your services/li_NGN')</initValue>
+      <name>currency</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

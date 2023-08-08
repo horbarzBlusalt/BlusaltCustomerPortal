@@ -28,15 +28,15 @@ WebUI.click(findTestObject('Object Repository/PNIN_OR/Page_Blusalt - Start Testi
 WebUI.setText(findTestObject('Object Repository/PNIN_OR/Page_Blusalt - Start Testing your services/input__vti__input'), 
     '08175885645')
 
-WebUI.click(findTestObject('Object Repository/PNIN_OR/Page_Blusalt - Start Testing your services/div__vs__selected-options_1_2'))
+WebUI.click(findTestObject('Page_Blusalt - Start Testing your services/selected-app-options'))
 
-WebUI.click(findTestObject('Object Repository/PNIN_OR/Page_Blusalt - Start Testing your services/li_identity-test_1'))
+WebUI.click(GlobalVariable.select_application_dropdown_s2)
 
-WebUI.click(findTestObject('Object Repository/PNIN_OR/Page_Blusalt - Start Testing your services/div__vs__selected-options_1_2_3'))
+WebUI.click(findTestObject('Page_Blusalt - Start Testing your services/selected-version-options'))
 
 WebUI.click(findTestObject('Object Repository/PNIN_OR/Page_Blusalt - Start Testing your services/li_v2_1'))
 
-WebUI.click(findTestObject('Object Repository/PNIN_OR/Page_Blusalt - Start Testing your services/div_Select Currency Type_vs__selected-options_1'))
+WebUI.click(findTestObject('Page_Blusalt - Start Testing your services/select_currencyType'))
 
 WebUI.click(findTestObject('Object Repository/PNIN_OR/Page_Blusalt - Start Testing your services/li_NGN_1'))
 

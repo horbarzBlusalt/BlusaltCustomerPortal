@@ -40,11 +40,11 @@ WebUI.setText(findTestObject('Object Repository/iBVN_OR/Page_Blusalt - Start Tes
 
 WebUI.click(findTestObject('iBVN_OR/Page_Blusalt - Start Testing your services/select_application'))
 
-WebUI.click(findTestObject('Page_Blusalt - Start Testing your services/li_bluintouchapp_copy'))
+WebUI.click(GlobalVariable.select_application_dropdown_s1)
 
 WebUI.click(findTestObject('iBVN_OR/Page_Blusalt - Start Testing your services/select_currencytype'))
 
-WebUI.click(findTestObject('Object Repository/iBVN_OR/Page_Blusalt - Start Testing your services/li_NGN'))
+WebUI.click(GlobalVariable.currency)
 
 WebUI.click(findTestObject('Object Repository/iBVN_OR/Page_Blusalt - Start Testing your services/span_Verify BVN'))
 

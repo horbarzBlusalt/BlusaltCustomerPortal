@@ -16,6 +16,10 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import java.io.*
+
+fileName = 'Include/resources/Bulk Files/bulk_nin.csv'
+File bulkNINFile = new File(fileName)
 
 WebUI.callTestCase(findTestCase('Navigation/LoginTest'), [:], FailureHandling.STOP_ON_FAILURE)
 
@@ -25,15 +29,15 @@ WebUI.click(findTestObject('Page_Blusalt - Welcome to your dashboard/a_Identity 
 
 WebUI.click(findTestObject('Object Repository/BulkNIN_OR/Page_Blusalt - Start Testing your services/a_Bulk National Identity (Bulk-NIN)'))
 
-WebUI.uploadFile(findTestObject('BBVN_OR/Page_Blusalt - Start Testing your services/select_bulk_file'), '/Users/obaloluwaabioye/Katalon Studio/BlusaltCustomerPortal.git/Bulk Files/bulk_nin.csv')
+WebUI.uploadFile(findTestObject('BBVN_OR/Page_Blusalt - Start Testing your services/select_bulk_file'), bulkNINFile.getAbsolutePath())
 
 WebUI.click(findTestObject('Object Repository/BulkNIN_OR/Page_Blusalt - Start Testing your services/div__vs__selected-options'))
 
-WebUI.click(findTestObject('Object Repository/BulkNIN_OR/Page_Blusalt - Start Testing your services/li_identity-test'))
+WebUI.click(GlobalVariable.select_application_dropdown_s2)
 
 WebUI.click(findTestObject('Object Repository/BulkNIN_OR/Page_Blusalt - Start Testing your services/div_Select Currency Type_vs__selected-options'))
 
-WebUI.click(findTestObject('Object Repository/BulkNIN_OR/Page_Blusalt - Start Testing your services/li_NGN'))
+WebUI.click(GlobalVariable.currency)
 
 WebUI.click(findTestObject('Object Repository/BulkNIN_OR/Page_Blusalt - Start Testing your services/button_Verify NINs'))
 

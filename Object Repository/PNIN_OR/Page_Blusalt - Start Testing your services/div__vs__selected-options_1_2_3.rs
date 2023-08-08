@@ -6,12 +6,12 @@
    <elementGuidId>97c7545d-a612-41d9-94ce-c9ba3eef0aed</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#vs11__combobox > div.vs__selected-options</value>
+         <key>XPATH</key>
+         <value>//div[@id='vs2__combobox']/div</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='vs11__combobox']/div</value>
+         <key>CSS</key>
+         <value>#vs11__combobox > div.vs__selected-options</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>5f7f701e-832e-49b4-bd2d-9ef85aeb840e</webElementGuid>
+      <webElementGuid>68af81f6-70bd-4909-a32d-7371c6267f96</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>vs__selected-options</value>
-      <webElementGuid>80d62e47-73f4-43cb-843f-0083c662d52b</webElementGuid>
+      <webElementGuid>6a3ab5ee-8dc0-4d89-94ad-e4b025a5257b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;vs11__combobox&quot;)/div[@class=&quot;vs__selected-options&quot;]</value>
-      <webElementGuid>454b5b64-0a21-4828-ab0c-059fc7fc80e0</webElementGuid>
+      <webElementGuid>c353a2db-d14b-4d64-bdb9-5de90be52f04</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='vs11__combobox']/div</value>
-      <webElementGuid>b77adada-1add-4ac9-9bad-8c61a4f53116</webElementGuid>
+      <webElementGuid>8e77f2ef-edb5-44db-a446-fe085124cb6a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::div[3]</value>
-      <webElementGuid>21266032-e95e-4b93-a984-ff461a2e30d1</webElementGuid>
+      <webElementGuid>1aedfc16-3e07-4548-85de-fef946b01695</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[2]/preceding::div[1]</value>
-      <webElementGuid>6c7cc08d-9898-4e08-b9d2-eb8c8d560ede</webElementGuid>
+      <webElementGuid>b7097962-a901-4486-a4fb-395a83a56239</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='v1'])[1]/preceding::div[3]</value>
-      <webElementGuid>bac68f6a-e4c9-40b0-84e2-cf2c44840c08</webElementGuid>
+      <webElementGuid>f18f71ec-7bce-4c37-9f7b-e2bebb20a44d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +78,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/div/div[3]/div/div/div</value>
-      <webElementGuid>c48260be-6a98-4bb5-9fd5-d2016c6734a1</webElementGuid>
+      <webElementGuid>6b1c4039-68a2-44f0-b9ef-d9c5efc6e1fc</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

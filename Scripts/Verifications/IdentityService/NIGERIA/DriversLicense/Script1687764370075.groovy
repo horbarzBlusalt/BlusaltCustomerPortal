@@ -46,15 +46,15 @@ WebUI.click(findTestObject('Object Repository/DriversLicense_OR/Page_Blusalt - S
 
 WebUI.click(findTestObject('Object Repository/DriversLicense_OR/Page_Blusalt - Start Testing your services/div__vs__selected-options'))
 
-WebUI.click(findTestObject('Object Repository/DriversLicense_OR/Page_Blusalt - Start Testing your services/li_bluintouchapp'))
+WebUI.click(GlobalVariable.select_application_dropdown_s1)
 
 WebUI.click(findTestObject('Object Repository/DriversLicense_OR/Page_Blusalt - Start Testing your services/div__vs__selected-options_1'))
 
-WebUI.click(findTestObject('Object Repository/DriversLicense_OR/Page_Blusalt - Start Testing your services/li_v2'))
+WebUI.click(GlobalVariable.version_number)
 
 WebUI.click(findTestObject('Object Repository/DriversLicense_OR/Page_Blusalt - Start Testing your services/div_Select Currency Type_vs__selected-options'))
 
-WebUI.click(findTestObject('Object Repository/DriversLicense_OR/Page_Blusalt - Start Testing your services/li_NGN'))
+WebUI.click(GlobalVariable.currency)
 
 WebUI.click(findTestObject('Object Repository/DriversLicense_OR/Page_Blusalt - Start Testing your services/span_Verify Driver License'))
 

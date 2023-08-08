@@ -13,8 +13,16 @@
          <key>CSS</key>
          <value>#vs3__option-0</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[contains(@id, '__option-0') and (contains(text(), '
+          NGN
+        ') or contains(., '
+          NGN
+        '))]</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,15 +30,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>6d879299-47bd-44ab-a40c-c01f208165d9</webElementGuid>
+      <webElementGuid>2da3daaa-b577-4afb-ae6c-032bc240970e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
+      <matchCondition>contains</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>vs3__option-0</value>
-      <webElementGuid>8e29b520-b182-4d42-90bc-469cec7b700d</webElementGuid>
+      <value>__option-0</value>
+      <webElementGuid>0fa97154-e7f2-4917-b46d-f3d7c9dedfdc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +46,7 @@
       <name>role</name>
       <type>Main</type>
       <value>option</value>
-      <webElementGuid>8cff09cf-8200-4d13-bd4d-159bd5eae54a</webElementGuid>
+      <webElementGuid>5e706e16-eb27-4c02-a87c-7741c62cc780</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +54,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>489aae39-ddb6-407b-a21a-c3ebffdcc96c</webElementGuid>
+      <webElementGuid>f2b68fa6-2b30-49b5-91e9-fd8d722e6afc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,17 +62,16 @@
       <name>class</name>
       <type>Main</type>
       <value>vs__dropdown-option vs__dropdown-option--highlight</value>
-      <webElementGuid>bfe1595b-15c0-4d40-83b5-9b2c59e5b696</webElementGuid>
+      <webElementGuid>cf3185f2-59e8-46dd-abc0-e67193024f2d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
+      <matchCondition>contains</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>
-          NGN
+      <value>NGN
         </value>
-      <webElementGuid>ef66551f-92f4-48c3-8956-c4af52ee8580</webElementGuid>
+      <webElementGuid>eb091ae1-9908-4093-87ef-9c85de0687cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -72,7 +79,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;vs3__option-0&quot;)</value>
-      <webElementGuid>80902193-d6bb-4952-bc7d-2fcde3681d4f</webElementGuid>
+      <webElementGuid>f24ee874-8054-4a68-a25b-9abb319e27a0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -80,7 +87,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//li[@id='vs3__option-0']</value>
-      <webElementGuid>e60512ca-8fb5-47af-aedc-70dcffddca66</webElementGuid>
+      <webElementGuid>e65d0e89-c564-4eca-8d6a-de1552000141</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -88,7 +95,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ul[@id='vs3__listbox']/li</value>
-      <webElementGuid>f25a8dfc-ad65-46f8-9991-29aea9f4f2fb</webElementGuid>
+      <webElementGuid>6d643ff8-31fa-4f9a-a105-3832d7cf0af3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[3]/following::li[1]</value>
-      <webElementGuid>3d0a679a-de3e-43a8-9292-abf3f85e1f9f</webElementGuid>
+      <webElementGuid>43f26b74-98e7-4bf5-bdb6-8b0286e9aa6c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -104,7 +111,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Currency Type'])[1]/following::li[1]</value>
-      <webElementGuid>f87d1e55-c03a-462d-8253-35a6a2890c94</webElementGuid>
+      <webElementGuid>c7f5ac23-5a9c-48fc-923c-5e4557bd3cda</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -112,7 +119,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Verify BVN'])[1]/preceding::li[1]</value>
-      <webElementGuid>330a843d-d621-4ab3-8425-59c47dd655da</webElementGuid>
+      <webElementGuid>60cb79a8-8491-44a3-9452-020e9938902c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -120,7 +127,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='API Request Format'])[1]/preceding::li[1]</value>
-      <webElementGuid>6ab152b6-816b-4881-b87f-5d38556c6669</webElementGuid>
+      <webElementGuid>f43e7771-61bb-477f-80f1-4a4a2a2dbd45</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -128,7 +135,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='NGN']/parent::*</value>
-      <webElementGuid>478131c3-8602-4180-8aae-704355e31b4f</webElementGuid>
+      <webElementGuid>53348098-0adc-4117-8d72-45297232e99f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -136,7 +143,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/div/ul/li</value>
-      <webElementGuid>9333c4de-1ea1-4761-8f44-415114c47de3</webElementGuid>
+      <webElementGuid>5365463f-b809-41e4-94ea-9dfdc7f3580a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -148,6 +155,6 @@
         ' or . = '
           NGN
         ')]</value>
-      <webElementGuid>17ade283-fd0a-4907-9e53-1c87d89ee39d</webElementGuid>
+      <webElementGuid>003e3807-d927-4bd0-afd1-07a4af8ecdc2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,12 +6,16 @@
    <elementGuidId>06f3a835-7d5c-4fb6-8014-61a16d434235</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value>//div[@id='vs3__combobox']/div</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>#vs12__combobox > div.vs__selected-options</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='vs12__combobox']/div</value>
+         <key>BASIC</key>
+         <value>id(&quot;vs12__combobox&quot;)/div[@class=&quot;vs__selected-options&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>1f5a06d6-cc04-4283-ba0e-152a5d34eb49</webElementGuid>
+      <webElementGuid>c4d6a8b5-ad92-47c6-b966-4120cd60b691</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>vs__selected-options</value>
-      <webElementGuid>1ffa6240-95fb-4e48-9f31-ee0c3fe72078</webElementGuid>
+      <webElementGuid>e1d79c49-3dba-4379-9174-b86de9497477</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +42,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;vs12__combobox&quot;)/div[@class=&quot;vs__selected-options&quot;]</value>
-      <webElementGuid>bb5b26e6-ad65-491f-83ac-78177ea49bb2</webElementGuid>
+      <webElementGuid>72a167a5-dc6f-49b6-a833-a5474059b440</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +50,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='vs12__combobox']/div</value>
-      <webElementGuid>f25b1f03-d547-441a-911d-091330b879a5</webElementGuid>
+      <webElementGuid>f47f926c-9adc-4817-87d0-fac6441c3145</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +58,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Currency Type'])[1]/following::div[3]</value>
-      <webElementGuid>56c6042a-f6bb-4727-ba42-79e7743a0406</webElementGuid>
+      <webElementGuid>69375d97-4a3d-4549-9d98-40cefb5ce2ed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='API version field is required.'])[1]/following::div[4]</value>
-      <webElementGuid>a8c329ba-34e3-446c-9cfa-16d548024051</webElementGuid>
+      <webElementGuid>2dcfe28b-e5db-4e4b-af9c-a7250024fe6f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[3]/preceding::div[1]</value>
-      <webElementGuid>41d20277-b102-46ad-becd-c96f370e472f</webElementGuid>
+      <webElementGuid>de7ab32d-bb22-486a-b5a3-95ca5baac65b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='NGN'])[1]/preceding::div[3]</value>
-      <webElementGuid>7da72605-0b27-41d6-8803-132f19d967d7</webElementGuid>
+      <webElementGuid>edd60c15-ba90-4332-a312-a25ad0596488</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +90,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div/div/div</value>
-      <webElementGuid>8893484b-3d0c-494c-aeba-923e60c487c3</webElementGuid>
+      <webElementGuid>520ec1a0-dea5-4127-b81c-2937cb1b18ce</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

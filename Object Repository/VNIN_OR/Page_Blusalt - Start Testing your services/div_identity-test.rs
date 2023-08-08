@@ -6,12 +6,20 @@
    <elementGuidId>640a1d95-7b5b-4813-8b46-1e8380f6a991</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value>(//div[@class=&quot;vs__selected-options&quot;])[1]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>div.vs__selected-options</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='vs4__combobox']/div</value>
+         <key>BASIC</key>
+         <value>//*[(text() = '
+            identity-test
+            ' or . = '
+            identity-test
+            ')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +30,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>bd3a24e7-c10b-4c36-87c8-223e221dd9a9</webElementGuid>
+      <webElementGuid>516de3f2-04e4-432f-bcdc-77bd31991126</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>vs__selected-options</value>
-      <webElementGuid>4802e44f-00b6-44ae-a5c8-b7e958169f08</webElementGuid>
+      <webElementGuid>44289114-b9e0-48df-8ca3-079579abc985</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -40,7 +48,7 @@
       <value>
             identity-test
             </value>
-      <webElementGuid>2afb8d9e-6117-4e4f-807a-3c09e5fde46d</webElementGuid>
+      <webElementGuid>dd19b41f-dd80-4d02-9ed7-359b39e30154</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -48,7 +56,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;vs4__combobox&quot;)/div[@class=&quot;vs__selected-options&quot;]</value>
-      <webElementGuid>bc19652e-9f39-4277-a470-ba3a17e8f593</webElementGuid>
+      <webElementGuid>03376737-f328-4077-9d14-fb9add7bb90c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -56,7 +64,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='vs4__combobox']/div</value>
-      <webElementGuid>a19bcfa4-6cb8-4bdd-afe4-ce39fccfbd58</webElementGuid>
+      <webElementGuid>866aa695-7656-4d6b-99cf-273b5e742430</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -64,7 +72,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::div[3]</value>
-      <webElementGuid>93f217d2-9a58-4ed5-8e6a-b30ba5ae67e1</webElementGuid>
+      <webElementGuid>f8316185-a1ba-42ae-9109-c80f51a61d52</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -72,7 +80,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[1]/preceding::div[1]</value>
-      <webElementGuid>8367796e-8098-4038-909f-21c04c0ea097</webElementGuid>
+      <webElementGuid>5252c450-7520-4f72-a1cd-eea41a32d656</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -80,7 +88,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/div/div[3]/div/div/div</value>
-      <webElementGuid>f6dad6a9-883d-4288-b58d-eed1d673c12c</webElementGuid>
+      <webElementGuid>c9c57787-e6e7-4e69-ad8d-f50bfdc31ffa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -92,6 +100,6 @@
             ' or . = '
             identity-test
             ')]</value>
-      <webElementGuid>4e3d7e1a-f71a-4e63-ae71-bacec63219dd</webElementGuid>
+      <webElementGuid>c13a456d-95a3-428d-a561-68e003b3ada7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -16,6 +16,10 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import java.io.*
+
+fileName = 'Include/resources/Bulk Files/bulk_bvn.csv'
+File bulkBVNFile = new File(fileName)
 
 WebUI.callTestCase(findTestCase('Navigation/LoginTest'), [:], FailureHandling.STOP_ON_FAILURE)
 
@@ -27,15 +31,15 @@ WebUI.click(findTestObject('Object Repository/BBVN_OR/Page_Blusalt - Start Testi
 
 WebUI.click(findTestObject('Object Repository/BBVN_OR/Page_Blusalt - Start Testing your services/button_Verify BVNs'))
 
-WebUI.uploadFile(findTestObject('BBVN_OR/Page_Blusalt - Start Testing your services/select_bulk_file'), '/Users/obaloluwaabioye/Katalon Studio/BlusaltCustomerPortal.git/Bulk Files/bulk_bvn.csv')
+WebUI.uploadFile(findTestObject('BBVN_OR/Page_Blusalt - Start Testing your services/select_bulk_file'), bulkBVNFile.getAbsolutePath())
 
 WebUI.click(findTestObject('Object Repository/BBVN_OR/Page_Blusalt - Start Testing your services/svg_Select Currency Type_vs__open-indicator'))
 
-WebUI.click(findTestObject('Object Repository/BBVN_OR/Page_Blusalt - Start Testing your services/li_NGN'))
+WebUI.click(GlobalVariable.currency)
 
 WebUI.click(findTestObject('Object Repository/BBVN_OR/Page_Blusalt - Start Testing your services/div_Loading'))
 
-WebUI.click(findTestObject('Object Repository/BBVN_OR/Page_Blusalt - Start Testing your services/li_bluintouchapp'))
+WebUI.click(GlobalVariable.select_application_dropdown_s1)
 
 WebUI.click(findTestObject('Object Repository/BBVN_OR/Page_Blusalt - Start Testing your services/span_Verify BVNs'))
 
@@ -44,7 +48,7 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/BBVN_OR/Page_Blusal
 
 WebUI.click(findTestObject('Object Repository/BBVN_OR/Page_Blusalt - Start Testing your services/svg_bluintouchapp_vs__open-indicator'))
 
-WebUI.click(findTestObject('Object Repository/BBVN_OR/Page_Blusalt - Start Testing your services/li_identity-test'))
+WebUI.click(GlobalVariable.select_application_dropdown_s2)
 
 WebUI.click(findTestObject('Object Repository/BBVN_OR/Page_Blusalt - Start Testing your services/span_Verify BVNs'))
 

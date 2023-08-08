@@ -13,8 +13,14 @@
          <key>CSS</key>
          <value>#vs2__option-1</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[contains(@id, '__option-1') and (text() = ' v2
+        ' or . = ' v2
+        ')]</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,15 +28,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>c5e751a3-f2db-438c-8e8d-b7ba6de2d0fb</webElementGuid>
+      <webElementGuid>76b8794f-db60-4ecc-a678-c6d8af5a28c8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
+      <matchCondition>contains</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>vs2__option-1</value>
-      <webElementGuid>fabad93e-92c4-4790-a8b2-d05d77e9df75</webElementGuid>
+      <value>__option-1</value>
+      <webElementGuid>5cb3f83d-d910-46b2-95b0-dddb22052444</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +44,7 @@
       <name>role</name>
       <type>Main</type>
       <value>option</value>
-      <webElementGuid>4c97cb33-4dec-41d4-b2a9-056b8bb986ab</webElementGuid>
+      <webElementGuid>720042e0-b6d0-4549-8df8-a235b35df17e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +52,7 @@
       <name>class</name>
       <type>Main</type>
       <value>vs__dropdown-option vs__dropdown-option--highlight</value>
-      <webElementGuid>2c3a9cf2-cccd-4c02-add8-94098acd6fe5</webElementGuid>
+      <webElementGuid>4f367723-4416-42e2-abad-94df86ac2d74</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,17 +60,16 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>6de5f3f8-cda4-4cfe-9413-7643e915ff62</webElementGuid>
+      <webElementGuid>32615f30-cb11-493c-92f0-f0bc2c2153b5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
+      <matchCondition>contains</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>
-          v2
+      <value> v2
         </value>
-      <webElementGuid>381788ee-803e-4022-9a26-e845e651d6c4</webElementGuid>
+      <webElementGuid>655ee602-ac39-458e-9df8-aa1ba9b7b954</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -72,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;vs2__option-1&quot;)</value>
-      <webElementGuid>0d73ef7f-4417-4bef-91ec-eb7edc6287e8</webElementGuid>
+      <webElementGuid>9aee0a58-ffe8-44e7-be24-7283b4930f86</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -80,7 +85,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//li[@id='vs2__option-1']</value>
-      <webElementGuid>f73a499b-d531-41bf-a2aa-ac198937c8cb</webElementGuid>
+      <webElementGuid>97153f6c-e74a-4b5f-804d-5bf9b90375a9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -88,7 +93,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ul[@id='vs2__listbox']/li[2]</value>
-      <webElementGuid>ad3b5f67-f76b-4721-a4f3-8da273566f6f</webElementGuid>
+      <webElementGuid>39cc3ff9-3105-4837-a214-16925ad6a21f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='v1'])[1]/following::li[1]</value>
-      <webElementGuid>6aa9aad6-0021-414a-829c-55badb4f4fbf</webElementGuid>
+      <webElementGuid>4b83d6af-27ac-4f90-a9b4-b4406db7e047</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -104,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[2]/following::li[2]</value>
-      <webElementGuid>a205abe4-c5d0-4a20-8949-07a8ff68d865</webElementGuid>
+      <webElementGuid>25eb40af-cae9-4256-b051-92e01aaca4bc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -112,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='API version field is required.'])[1]/preceding::li[1]</value>
-      <webElementGuid>f9dd92cc-5bc8-4b71-8779-9ab6a4eb381d</webElementGuid>
+      <webElementGuid>02c319fe-704a-44ef-88c4-7556b47e789c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -120,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Currency Type'])[1]/preceding::li[2]</value>
-      <webElementGuid>9f8209c6-bc42-4e87-b4b5-f0d2f24d320b</webElementGuid>
+      <webElementGuid>d4b58f32-0e07-4670-bd96-2bb96366ce98</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -128,7 +133,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='v2']/parent::*</value>
-      <webElementGuid>741688bf-c1ac-4db5-b580-e96c33d2c545</webElementGuid>
+      <webElementGuid>caf4a509-f0de-45a2-8ecf-827498239148</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -136,7 +141,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div/ul/li[2]</value>
-      <webElementGuid>4d87e9bd-e372-46e4-89fd-9095988516aa</webElementGuid>
+      <webElementGuid>2f3cc919-dc32-4ae3-8a67-b2e792523ca1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -148,6 +153,6 @@
         ' or . = '
           v2
         ')]</value>
-      <webElementGuid>0c09cc44-0ab0-44ca-9669-cc156555c2ef</webElementGuid>
+      <webElementGuid>8ad1cd26-9b7c-42a2-9806-e925c5e4f888</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

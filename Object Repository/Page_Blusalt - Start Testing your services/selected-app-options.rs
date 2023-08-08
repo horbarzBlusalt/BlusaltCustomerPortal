@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div__vs__selected-options_1</name>
+   <name>selected-app-options</name>
    <tag></tag>
-   <elementGuidId>65b97e1e-a828-4398-8757-5400839bd860</elementGuidId>
+   <elementGuidId>74a6945d-21e8-4a34-afb5-33d8e8e569e8</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='vs2__combobox']/div</value>
+         <value>//div[@id='vs1__combobox']/div</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#vs2__combobox > div.vs__selected-options</value>
+         <value>div.vs__selected-options</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>f0a98370-ae70-4a0b-90ce-0f2182b313dd</webElementGuid>
+      <webElementGuid>7921a82c-a222-404e-a1b7-2db328f3d2a3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,54 +30,54 @@
       <name>class</name>
       <type>Main</type>
       <value>vs__selected-options</value>
-      <webElementGuid>6c8d4b3e-8769-4ce8-a67e-640eb06c9f5c</webElementGuid>
+      <webElementGuid>63bca577-04bc-4603-bf3c-46d3f5646895</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;vs2__combobox&quot;)/div[@class=&quot;vs__selected-options&quot;]</value>
-      <webElementGuid>f6a33e96-ad16-4f61-8967-981087c24ed5</webElementGuid>
+      <value>id(&quot;vs1__combobox&quot;)/div[@class=&quot;vs__selected-options&quot;]</value>
+      <webElementGuid>c3359979-8b8a-49f4-b6e7-28f0912a1477</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='vs2__combobox']/div</value>
-      <webElementGuid>268c6f7f-2565-439c-b67d-5f5ed5fe75d7</webElementGuid>
+      <value>//div[@id='vs1__combobox']/div</value>
+      <webElementGuid>f6a8d70f-c0a6-410e-bc19-a67d3928dfc0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::div[3]</value>
-      <webElementGuid>c30266e7-d028-4f25-988e-ad5d8184afba</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::div[3]</value>
+      <webElementGuid>63810400-108c-47d8-b360-9e0c0b2b5980</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[2]/preceding::div[1]</value>
-      <webElementGuid>b4fece29-e2e8-4a68-8e6d-12be70e3a523</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[1]/preceding::div[1]</value>
+      <webElementGuid>40274cd9-743a-4234-8e97-1d8b8f180435</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='v1'])[1]/preceding::div[3]</value>
-      <webElementGuid>253ff807-3883-40eb-8cdd-2de8ff1f2697</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='identity-test'])[1]/preceding::div[3]</value>
+      <webElementGuid>2f6c07d0-9d6b-475e-af3c-70faa4874b30</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[4]/div/div/div</value>
-      <webElementGuid>68234f9e-b47c-4938-b6c3-b10c76167507</webElementGuid>
+      <value>//div[3]/div/div/div</value>
+      <webElementGuid>9a0bd2f6-80ea-4491-bca6-87873927e034</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

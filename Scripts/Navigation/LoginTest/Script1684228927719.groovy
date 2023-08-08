@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://staging.blusalt.net/login')
+WebUI.navigateToUrl(GlobalVariable.staging_url)
 
 WebUI.maximizeWindow()
 

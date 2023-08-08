@@ -16,6 +16,10 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import java.io.*
+
+fileName = 'Include/resources/SmartKYC Files/dl_front.jpg'
+File houseImg = new File(fileName)
 
 WebUI.callTestCase(findTestCase('Navigation/LoginTest'), [:], FailureHandling.STOP_ON_FAILURE)
 
@@ -83,11 +87,11 @@ WebUI.setText(findTestObject('Object Repository/Address_OR/Page_Blusalt - Start 
 
 WebUI.click(findTestObject('Object Repository/Address_OR/Page_Blusalt - Start Testing your services/div_Click to upload fileBrowse'))
 
-WebUI.uploadFile(findTestObject('Address_OR/Page_Blusalt - Start Testing your services/file_input'), '/Users/obaloluwaabioye/Katalon Studio/BlusaltCustomerPortal.git/SmartKYC Files/dl_front.jpg')
+WebUI.uploadFile(findTestObject('Address_OR/Page_Blusalt - Start Testing your services/file_input'), houseImg.getAbsolutePath())
 
 WebUI.click(findTestObject('Object Repository/Address_OR/Page_Blusalt - Start Testing your services/div__vs__selected-options'))
 
-WebUI.click(findTestObject('Object Repository/Address_OR/Page_Blusalt - Start Testing your services/li_identity-test'))
+WebUI.click(GlobalVariable.select_application_dropdown_s2)
 
 WebUI.click(findTestObject('Object Repository/Address_OR/Page_Blusalt - Start Testing your services/div_Select Currency Type_vs__selected-options'))
 

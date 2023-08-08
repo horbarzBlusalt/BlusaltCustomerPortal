@@ -44,15 +44,15 @@ WebUI.setText(findTestObject('Object Repository/NIN_OR/Page_Blusalt - Start Test
 
 WebUI.click(findTestObject('NIN_OR/Page_Blusalt - Start Testing your services/select_an_application'))
 
-WebUI.click(findTestObject('NIN_OR/Page_Blusalt - Start Testing your services/li_bluintouchapp_select'))
+WebUI.click(GlobalVariable.select_application_dropdown_s1)
 
 WebUI.click(findTestObject('NIN_OR/Page_Blusalt - Start Testing your services/select_api_version'))
 
-WebUI.click(findTestObject('Object Repository/NIN_OR/Page_Blusalt - Start Testing your services/li_v2'))
+WebUI.click(GlobalVariable.version_number)
 
 WebUI.click(findTestObject('iBVN_OR/Page_Blusalt - Start Testing your services/div_Select Currency Type'))
 
-WebUI.click(findTestObject('Object Repository/NIN_OR/Page_Blusalt - Start Testing your services/li_NGN'))
+WebUI.click(GlobalVariable.currency)
 
 WebUI.click(findTestObject('Object Repository/NIN_OR/Page_Blusalt - Start Testing your services/span_Verify NIN'))
 

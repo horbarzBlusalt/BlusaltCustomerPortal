@@ -6,15 +6,19 @@
    <elementGuidId>ecef64a0-4911-41e8-9232-9cf7e9758742</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value>//li[@id='vs2__option-0']</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>#vs5__option-0</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//li[@id='vs2__option-0']</value>
+         <key>BASIC</key>
+         <value>//*[contains(@id, '__option-0')]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,15 +26,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>8f5f1953-aecf-4027-ad8f-0189e77ab59d</webElementGuid>
+      <webElementGuid>9672073f-a45c-4f96-bcde-fec4133370aa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
+      <matchCondition>contains</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>vs5__option-0</value>
-      <webElementGuid>07187593-c379-49ab-865a-90e692e76858</webElementGuid>
+      <value>__option-0</value>
+      <webElementGuid>2da4fb86-03df-458c-ae0f-c83afa0ef1d2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +42,7 @@
       <name>role</name>
       <type>Main</type>
       <value>option</value>
-      <webElementGuid>4224c594-c00f-4413-8107-372600aa5e9f</webElementGuid>
+      <webElementGuid>433dabc1-5d00-4a69-9c94-5585fc889c2f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +50,7 @@
       <name>class</name>
       <type>Main</type>
       <value>vs__dropdown-option vs__dropdown-option--highlight</value>
-      <webElementGuid>ba409862-02c4-4945-bebe-7f7128396675</webElementGuid>
+      <webElementGuid>def43327-a712-4aa9-a1ae-dd579063594a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,17 +58,16 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>4281c031-c15d-4ba1-bf58-1fc56c2f9909</webElementGuid>
+      <webElementGuid>fb38fe86-1970-420f-a29b-0c01db748e3d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
+      <isSelected>false</isSelected>
+      <matchCondition>contains</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>
-          identity-test
+      <value>identity-test
         </value>
-      <webElementGuid>f1465a77-050f-469d-9aa4-ae2f9ae04550</webElementGuid>
+      <webElementGuid>e683c7ee-afe1-4be7-8459-27beff3e465f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -72,7 +75,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;vs5__option-0&quot;)</value>
-      <webElementGuid>655f8a36-7ab3-4f4d-98c1-5806967ccc96</webElementGuid>
+      <webElementGuid>f7592a38-4c97-421c-a17c-023d31e01e60</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -80,7 +83,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//li[@id='vs5__option-0']</value>
-      <webElementGuid>6b156dee-a498-4518-9684-ab73e8d36020</webElementGuid>
+      <webElementGuid>4abf3ab6-812c-4ba5-80f0-f678af5654d3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -88,7 +91,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ul[@id='vs5__listbox']/li</value>
-      <webElementGuid>17bf667f-1c66-4143-8d48-7d958d8c59aa</webElementGuid>
+      <webElementGuid>47ab867c-a6f7-4ab2-9706-bcde686e470e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,7 +99,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[2]/following::li[1]</value>
-      <webElementGuid>c8d80895-401b-4ca0-a7a9-5dda746b4bf1</webElementGuid>
+      <webElementGuid>a976e46d-8f51-4322-b9fd-c719917b1624</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -104,7 +107,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[12]/following::li[1]</value>
-      <webElementGuid>37229d76-ddd8-4a11-a85f-044e1bfcad17</webElementGuid>
+      <webElementGuid>f9a53db1-4cb1-47f7-a47a-d39652ab5ac6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -112,7 +115,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='infohob-identity'])[1]/preceding::li[1]</value>
-      <webElementGuid>e9a276d1-a11d-49a6-9445-074e5111cb84</webElementGuid>
+      <webElementGuid>1b0e2403-ca2f-4eae-a4f6-f6a849ba716b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -120,7 +123,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='bvn-verification'])[1]/preceding::li[2]</value>
-      <webElementGuid>234c8f7d-34fb-4161-8bb3-97197714f70f</webElementGuid>
+      <webElementGuid>f32912d9-5aa2-4c18-8cee-34c408c57a40</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -128,7 +131,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='identity-test']/parent::*</value>
-      <webElementGuid>f37847ff-0519-4992-ac8d-4ca17b832f72</webElementGuid>
+      <webElementGuid>24686f11-53a6-470b-babb-d42ad10236de</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -136,7 +139,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[20]/div/ul/li</value>
-      <webElementGuid>3fe42dd1-29af-4308-a1fc-5d389a5b2ff9</webElementGuid>
+      <webElementGuid>150ce270-381d-4d30-a18a-52b0b76a64fb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -148,6 +151,6 @@
         ' or . = '
           identity-test
         ')]</value>
-      <webElementGuid>bd377dad-dd0e-45e6-8fb0-1dff4e4afe0b</webElementGuid>
+      <webElementGuid>75bc1492-7644-4a52-b599-a510782d64c0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

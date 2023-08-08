@@ -33,13 +33,13 @@ WebUI.setText(findTestObject('Object Repository/VNIN_OR/Page_Blusalt - Start Tes
 WebUI.setText(findTestObject('Object Repository/VNIN_OR/Page_Blusalt - Start Testing your services/input__form-control input-bordered'), 
     'ZA968268583899T0')
 
-WebUI.click(findTestObject('Object Repository/VNIN_OR/Page_Blusalt - Start Testing your services/div__vs__selected-options'))
+WebUI.click(findTestObject('iBVN_OR/Page_Blusalt - Start Testing your services/select_application'))
 
-WebUI.click(findTestObject('Object Repository/VNIN_OR/Page_Blusalt - Start Testing your services/li_identity-test'))
+WebUI.click(GlobalVariable.select_application_dropdown_s2)
 
-WebUI.click(findTestObject('Object Repository/VNIN_OR/Page_Blusalt - Start Testing your services/div_Select Currency Type_vs__selected-options'))
+WebUI.click(findTestObject('iBVN_OR/Page_Blusalt - Start Testing your services/select_currencytype'))
 
-WebUI.click(findTestObject('Object Repository/VNIN_OR/Page_Blusalt - Start Testing your services/li_NGN'))
+WebUI.click(GlobalVariable.currency)
 
 WebUI.click(findTestObject('Object Repository/VNIN_OR/Page_Blusalt - Start Testing your services/button_Verify vNIN'))
 
@@ -48,12 +48,12 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/VNIN_OR/Page_Blusal
 
 WebUI.click(findTestObject('Object Repository/VNIN_OR/Page_Blusalt - Start Testing your services/div_identity-test'))
 
-WebUI.click(findTestObject('Object Repository/VNIN_OR/Page_Blusalt - Start Testing your services/li_bluintouchapp'))
+WebUI.click(GlobalVariable.select_application_dropdown_s1)
 
 WebUI.click(findTestObject('Object Repository/VNIN_OR/Page_Blusalt - Start Testing your services/span_Verify vNIN'))
 
 WebUI.setText(findTestObject('Object Repository/VNIN_OR/Page_Blusalt - Start Testing your services/input__form-control input-bordered'), 
-    'ZA968268583899TO')
+    'UN684438347444YZ')
 
 WebUI.click(findTestObject('Object Repository/VNIN_OR/Page_Blusalt - Start Testing your services/button_Verify vNIN'))
 
