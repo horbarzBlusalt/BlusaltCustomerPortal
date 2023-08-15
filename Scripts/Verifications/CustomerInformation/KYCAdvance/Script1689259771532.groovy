@@ -33,7 +33,7 @@ WebUI.setText(findTestObject('CustomerInfo_OR/Page_Blusalt - Start Testing your 
 
 WebUI.click(findTestObject('CustomerInfo_OR/Page_Blusalt - Start Testing your services/select_an_application'))
 
-WebUI.click(findTestObject('CustomerInfo_OR/Page_Blusalt - Start Testing your services/identity-test'))
+WebUI.click(GlobalVariable.select_application_dropdown_s2)
 
 WebUI.click(findTestObject('Object Repository/CustomerInfo_OR/Page_Blusalt - Start Testing your services/span_Verify'))
 

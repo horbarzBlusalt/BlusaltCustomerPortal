@@ -35,9 +35,9 @@ WebUI.setText(findTestObject('Object Repository/GhanaVotersID/Page_Blusalt - Sta
 WebUI.setText(findTestObject('Object Repository/GhanaVotersID/Page_Blusalt - Start Testing your services/input__vti__input'), 
     '0263390259')
 
-WebUI.click(findTestObject('CustomerInfo_OR/Page_Blusalt - Start Testing your services/select_application'))
+WebUI.click(GlobalVariable.select_application)
 
-WebUI.click(findTestObject('Object Repository/GhanaVotersID/Page_Blusalt - Start Testing your services/li_identity-test'))
+WebUI.click(GlobalVariable.select_application_dropdown_s2)
 
 WebUI.click(findTestObject('CustomerInfo_OR/Page_Blusalt - Start Testing your services/select_api_version'))
 

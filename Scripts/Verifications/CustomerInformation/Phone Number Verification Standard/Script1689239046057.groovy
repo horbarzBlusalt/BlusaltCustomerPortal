@@ -28,9 +28,9 @@ WebUI.click(findTestObject('Object Repository/PhoneNumberStand_OR/Page_Blusalt -
 WebUI.setText(findTestObject('Object Repository/PhoneNumberStand_OR/Page_Blusalt - Start Testing your services/input__vti__input'), 
     '08175885645')
 
-WebUI.click(findTestObject('Object Repository/PhoneNumberStand_OR/Page_Blusalt - Start Testing your services/div__vs__selected-options'))
+WebUI.click(GlobalVariable.select_app)
 
-WebUI.click(findTestObject('Object Repository/PhoneNumberStand_OR/Page_Blusalt - Start Testing your services/li_identity-test'))
+WebUI.click(GlobalVariable.select_application_dropdown_s2)
 
 WebUI.click(findTestObject('Object Repository/PhoneNumberStand_OR/Page_Blusalt - Start Testing your services/span_Verify'))
 

@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl(GlobalVariable.staging_url)
+WebUI.navigateToUrl(GlobalVariable.url)
 
 WebUI.maximizeWindow()
 
@@ -32,10 +32,10 @@ WebUI.verifyElementText(findTestObject('Object Repository/Page_Blusalt - Login t
 WebUI.click(findTestObject('Object Repository/Page_Blusalt - Login to blusalt/input_EmailPhone-number_form-control input-_55be30'))
 
 WebUI.setText(findTestObject('Object Repository/Page_Blusalt - Login to blusalt/input_EmailPhone-number_form-control input-_55be30'), 
-    'farida@blusalt.net')
+    GlobalVariable.login_email)
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Blusalt - Login to blusalt/input_Password_form-control input-bordered'), 
-    'jdIGyv7YwfwhQA3h4NNgrQ==')
+    GlobalVariable.login_password)
 
 WebUI.click(findTestObject('Object Repository/Page_Blusalt - Login to blusalt/em_Password_fas fa-eye-slash fs-24'))
 

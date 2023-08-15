@@ -34,9 +34,9 @@ WebUI.click(findTestObject('Object Repository/KNID_OR/Page_Blusalt - Start Testi
 WebUI.setText(findTestObject('Object Repository/KNID_OR/Page_Blusalt - Start Testing your services/input__form-control input-bordered'), 
     'AA0959390')
 
-WebUI.click(findTestObject('Object Repository/KNID_OR/Page_Blusalt - Start Testing your services/div__vs__selected-options'))
+WebUI.click(GlobalVariable.select_application)
 
-WebUI.click(findTestObject('Object Repository/KNID_OR/Page_Blusalt - Start Testing your services/li_identity-test'))
+WebUI.click(GlobalVariable.select_application_dropdown_s2)
 
 WebUI.click(findTestObject('Object Repository/KNID_OR/Page_Blusalt - Start Testing your services/span_Verify'))
 

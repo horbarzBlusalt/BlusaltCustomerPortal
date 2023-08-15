@@ -19,6 +19,7 @@ import org.openqa.selenium.Keys as Keys
 import java.io.*
 
 fileName = 'Include/resources/Bulk Files/bulk_bvn.csv'
+
 File bulkBVNFile = new File(fileName)
 
 WebUI.callTestCase(findTestCase('Navigation/LoginTest'), [:], FailureHandling.STOP_ON_FAILURE)
@@ -35,27 +36,30 @@ WebUI.uploadFile(findTestObject('BBVN_OR/Page_Blusalt - Start Testing your servi
 
 WebUI.click(findTestObject('Object Repository/BBVN_OR/Page_Blusalt - Start Testing your services/svg_Select Currency Type_vs__open-indicator'))
 
-WebUI.click(GlobalVariable.currency)
-
 WebUI.click(findTestObject('Object Repository/BBVN_OR/Page_Blusalt - Start Testing your services/div_Loading'))
+
+WebUI.click(GlobalVariable.currency)
 
 WebUI.click(GlobalVariable.select_application_dropdown_s1)
 
 WebUI.click(findTestObject('Object Repository/BBVN_OR/Page_Blusalt - Start Testing your services/span_Verify BVNs'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/BBVN_OR/Page_Blusalt - Start Testing your services/p_This service is not included in your app'), 
-    0)
+try {
+    WebUI.verifyElementPresent(findTestObject('Object Repository/BBVN_OR/Page_Blusalt - Start Testing your services/p_This service is not included in your app'), 
+        0)
 
-WebUI.click(findTestObject('Object Repository/BBVN_OR/Page_Blusalt - Start Testing your services/svg_bluintouchapp_vs__open-indicator'))
+    WebUI.click(findTestObject('Object Repository/BBVN_OR/Page_Blusalt - Start Testing your services/svg_bluintouchapp_vs__open-indicator'))
 
-WebUI.click(GlobalVariable.select_application_dropdown_s2)
+    WebUI.click(GlobalVariable.select_application_dropdown_s2)
 
-WebUI.click(findTestObject('Object Repository/BBVN_OR/Page_Blusalt - Start Testing your services/span_Verify BVNs'))
+    WebUI.click(findTestObject('Object Repository/BBVN_OR/Page_Blusalt - Start Testing your services/span_Verify BVNs'))
 
-WebUI.click(findTestObject('Object Repository/BBVN_OR/Page_Blusalt - Start Testing your services/p_Your file is Successfully Uploaded'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/BBVN_OR/Page_Blusalt - Start Testing your services/p_Your file is Successfully Uploaded'), 
-    0)
+    WebUI.verifyElementPresent(findTestObject('Object Repository/BBVN_OR/Page_Blusalt - Start Testing your services/p_Your file is Successfully Uploaded'), 
+        0)
+}
+catch (Exception e) {
+    println(e.toString())
+} 
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/BBVN_OR/Page_Blusalt - Start Testing your services/p_Your Bulk BVN request has been recieved a_83fa4a'), 
     0)

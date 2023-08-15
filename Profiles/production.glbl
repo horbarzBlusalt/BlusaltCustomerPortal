@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <GlobalVariableEntities>
    <description></description>
-   <name>default</name>
+   <name>production</name>
    <tag></tag>
-   <defaultProfile>true</defaultProfile>
+   <defaultProfile>false</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'https://staging.blusalt.net/login'</initValue>
+      <initValue>'https://app.blusalt.net/login'</initValue>
       <name>url</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>findTestObject('NIP_OR/Page_Blusalt - Start Testing your services/li_bluintouchapp')</initValue>
+      <initValue>findTestObject('NIP_OR/Page_Blusalt - Start Testing your services/live_identity_test')</initValue>
       <name>select_application_dropdown_s1</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>findTestObject('Address_OR/Page_Blusalt - Start Testing your services/li_identity-test')</initValue>
+      <initValue>findTestObject('NIP_OR/Page_Blusalt - Start Testing your services/live_identity_test')</initValue>
       <name>select_application_dropdown_s2</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -31,12 +31,12 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'farida@blusalt.net'</initValue>
+      <initValue>'kehindeo@blusalt.net'</initValue>
       <name>login_email</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'jdIGyv7YwfwhQA3h4NNgrQ=='</initValue>
+      <initValue>'cvW8qx4B2o1WegCEDy41Xg=='</initValue>
       <name>login_password</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -48,10 +48,5 @@
       <description></description>
       <initValue>findTestObject('iBVN_OR/Page_Blusalt - Start Testing your services/select_currencytype')</initValue>
       <name>select_currency</name>
-   </GlobalVariableEntity>
-   <GlobalVariableEntity>
-      <description></description>
-      <initValue>findTestObject('iBVN_OR/Page_Blusalt - Start Testing your services/select_app')</initValue>
-      <name>select_app</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

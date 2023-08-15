@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>select_application</name>
+   <name>select_app</name>
    <tag></tag>
-   <elementGuidId>b66cc776-145c-4070-b0d6-b07afa38cca8</elementGuidId>
+   <elementGuidId>6fdf8672-4a3a-4c06-90e8-78a16127cfe3</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -15,7 +15,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@placeholder='Select an application']</value>
+         <value>//input[@placeholder='Select Application']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -26,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>0cfbac3e-1097-480b-86be-e5eab49428f5</webElementGuid>
+      <webElementGuid>1febb860-8e99-4a38-ad39-4036b640bfc7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -34,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>vs__actions</value>
-      <webElementGuid>a84957f6-adcf-4d6a-bd74-ff78c1f3de5e</webElementGuid>
+      <webElementGuid>796fd123-8876-4a14-a29e-7a068d53e7e3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
       <name>text</name>
       <type>Main</type>
       <value>  Loading...</value>
-      <webElementGuid>db1462ec-b462-4d1a-8c8c-6e9a500dea60</webElementGuid>
+      <webElementGuid>33264c86-baba-4f38-9b97-b4506875d0e4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,7 +50,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;vs4__combobox&quot;)/div[@class=&quot;vs__actions&quot;]</value>
-      <webElementGuid>50c32557-71b1-4ec8-b1e3-109a01c11f97</webElementGuid>
+      <webElementGuid>bb6d97f6-03f1-4280-95b0-92580f1e42bb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -58,7 +58,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='vs4__combobox']/div[2]</value>
-      <webElementGuid>3221bcbd-85d9-4094-823b-b9284aff7a07</webElementGuid>
+      <webElementGuid>2b1340db-c329-47aa-87ff-ca2dcda56205</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -66,7 +66,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::div[4]</value>
-      <webElementGuid>1049e492-5154-441e-8b80-1307eaf4bec6</webElementGuid>
+      <webElementGuid>b4f64367-7ea7-4caa-8c5b-e6e9b0c46ae2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Application field is required.'])[1]/preceding::div[2]</value>
-      <webElementGuid>c034046f-3645-41a3-b940-6b351933f4e1</webElementGuid>
+      <webElementGuid>7e75695b-15ef-41ea-a868-9ca92b5b111c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,7 +82,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div/div[2]</value>
-      <webElementGuid>d010e2e6-b1b4-4b4d-a0f4-a3edd38ac0e0</webElementGuid>
+      <webElementGuid>72689158-374e-43d9-8c2e-c210ec400e13</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,6 +90,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = '  Loading...' or . = '  Loading...')]</value>
-      <webElementGuid>101ac04c-b8d2-4fcc-8593-d65a7973c986</webElementGuid>
+      <webElementGuid>8a366469-237d-4ef7-b02a-92e976ece5b3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

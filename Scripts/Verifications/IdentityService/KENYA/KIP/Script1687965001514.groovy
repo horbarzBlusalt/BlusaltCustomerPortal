@@ -34,9 +34,9 @@ WebUI.click(findTestObject('Object Repository/KIP_OR/Page_Blusalt - Start Testin
 WebUI.setText(findTestObject('Object Repository/KIP_OR/Page_Blusalt - Start Testing your services/input__form-control input-bordered'), 
     'BX1608500')
 
-WebUI.click(findTestObject('Object Repository/KIP_OR/Page_Blusalt - Start Testing your services/div__vs__selected-options'))
+WebUI.click(GlobalVariable.select_application)
 
-WebUI.click(findTestObject('Object Repository/KIP_OR/Page_Blusalt - Start Testing your services/li_identity-test'))
+WebUI.click(GlobalVariable.select_application_dropdown_s2)
 
 WebUI.click(findTestObject('CustomerInfo_OR/Page_Blusalt - Start Testing your services/button_Verify'))
 
